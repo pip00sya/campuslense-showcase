@@ -1,0 +1,97 @@
+[
+  {
+    "file": "01_globe.jpg",
+    "bytes": 131261,
+    "sha256": "04c3f46bccac4299b577e6601ae6942f24caf9614845a792d24a722778b16a22"
+  },
+  {
+    "file": "02_search.jpg",
+    "bytes": 131194,
+    "sha256": "4a56057a72a5e66c813e7c10f8c72f46bb2840b550f947085b4bf0c812bbbc9d"
+  },
+  {
+    "file": "05_3d_stanford.jpg",
+    "bytes": 427210,
+    "sha256": "be47b46907ff62a2bd261aaae8807ec7bd9fb996794a4508e3196695283d8c46"
+  },
+  {
+    "file": "08_profile.jpg",
+    "bytes": 1124713,
+    "sha256": "6f22d5398a1c72345b73a02cb64a5203c83e9ae09c942249137732dbeca8878e"
+  },
+  {
+    "file": "10_photos_filter_dorm.jpg",
+    "bytes": 526438,
+    "sha256": "9266b51e418b21d65f1dbc4be312daa009c943c61bcf5e79458835e57efac82c"
+  },
+  {
+    "file": "11_photos_brochure_reality.jpg",
+    "bytes": 2047366,
+    "sha256": "05e3b505f9a299c33a5f200967bebc93575bd7c667c74994e710d5b620fc7c12"
+  },
+  {
+    "file": "12_photo_passport.jpg",
+    "bytes": 172349,
+    "sha256": "f3076e46ec38865e907625e7f260d500a3051f43ea8a044ce61033c269fb939c"
+  },
+  {
+    "file": "15_climate.jpg",
+    "bytes": 543243,
+    "sha256": "19231a9464e9bf07c30357956aea0adb4dbe9a03d4e4a4bced9689fdd79ff5d7"
+  },
+  {
+    "file": "16_verify.jpg",
+    "bytes": 480847,
+    "sha256": "51ff8b84405a8f50b4a8fccf06919f76c40e943cf04b27d697ecd3c0b068fb4b"
+  },
+  {
+    "file": "21_compare.jpg",
+    "bytes": 746875,
+    "sha256": "5aaca56f4e288ccae0454f4819d1ecb05df6d905404f8643653808861c015b2a"
+  },
+  {
+    "file": "architecture.svg",
+    "bytes": 1719,
+    "sha256": "7616196d28f61c0573abcd16ef4a250c32e67019274cbdead19efbef0b1e0250"
+  },
+  {
+    "file": "campus-3d.jpg",
+    "bytes": 1039568,
+    "sha256": "0bdbcd1965f284805dd95690d4b6929df9fbfe5afadec325f164246842893f40"
+  },
+  {
+    "file": "cover.svg",
+    "bytes": 953,
+    "sha256": "41703de2dde662988bbd62e6fe85431787ec3c00111cd9e2f04447493dcaae59"
+  },
+  {
+    "file": "materials/LOCUS-Case-01.pdf",
+    "bytes": 92335,
+    "sha256": "723f451eb2f2fa9d6b21108233b2ce55f4ee8839c3111700802cccd6e285b02d"
+  },
+  {
+    "file": "materials/LOCUS-Regulations-v2.pdf",
+    "bytes": 106256,
+    "sha256": "b2eaed3cd9d0d1bae700188b52e75832726fc725fa3305a8dafb10d94087c7c9"
+  },
+  {
+    "file": "media/CampusLens.pdf",
+    "bytes": 1520475,
+    "sha256": "2a7c4c7c54cb13f4206a3339ef31422999d2987875382f44f4734f8ac8f7935e"
+  },
+  {
+    "file": "media/campuslense-demo.mp4",
+    "bytes": 16161462,
+    "sha256": "cadfa7c71df5be3b7e1684c7fd43aac9dccabedfe5b6f43b008ccaf760571ae4"
+  },
+  {
+    "file": "mobile-profile.jpg",
+    "bytes": 187113,
+    "sha256": "64583c0b167d063c65aa8fc502e6e241305e028d18d1741e03a59fbb95a1480b"
+  },
+  {
+    "file": "verification.jpg",
+    "bytes": 480847,
+    "sha256": "51ff8b84405a8f50b4a8fccf06919f76c40e943cf04b27d697ecd3c0b068fb4b"
+  }
+]
