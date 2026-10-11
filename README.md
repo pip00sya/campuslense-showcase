@@ -116,12 +116,24 @@ These are prototype measurements, not a guarantee across the full university ind
 ## The LOCUS challenge behind the product
 
 CampusLense was developed for **LOCUS Startup Hackathon 2026**, organized by **LOCUS
-Education**, and received **first place**. The team retains certificates identifying
-the project/team and award recipients; their scans are not yet included here.
+Education**, and received **first place**. The organizer's
+[final results](https://www.instagram.com/locus_ed/p/Dd8uIpDtT4z/) name **QwertyS** as the
+winner; its [Case 01 finalist list](https://www.instagram.com/locus_ed/p/DdjcB1VtlE6/)
+identifies **CampusLense (QwertyS)**. The team also retains first-place certificates.
+
+<details><summary>Official LOCUS results</summary>
+
+![Official LOCUS hackathon results naming QwertyS in first place.](media/locus-winners.jpg)
+
+*Original organizer artwork from the [1 October final-results publication](https://www.instagram.com/locus_ed/p/Dd8uIpDtT4z/).
+Credit: LOCUS / @locus_ed. Preserved without alteration.*
+
+</details>
 
 The event brought together **200 teams**, according to the team's participation record.
-An organizer-published participation count has not yet been located; this number refers
-to the overall event, rather than a confirmed number of entries in Case 01.
+An organizer-published overall participation count has not yet been located. The
+[25 September winners announcement](https://www.instagram.com/locus_ed/p/DdtuwJZFMaU/)
+confirms **13 teams in the final**. The 200-team figure refers to the overall event.
 
 The 72-hour build window ran **16 September, 12:00 to 19 September, 12:00**, with the
 final scheduled for **24 September 2026**, using Astana time. The chosen brief was

@@ -20,3 +20,5 @@ image or award graphic has been invented. Certificates held by the team are ment
 only in the event record until their actual scans are supplied.
 
 `media/campuslense-demo.mp4` and `media/CampusLens.pdf` are the retained hackathon recording and pitch. The original LOCUS case and regulations are retained in `materials/`.
+
+`media/locus-winners.jpg` is the unchanged original final-results artwork from LOCUS / @locus_ed, published 1 October 2026: https://www.instagram.com/locus_ed/p/Dd8uIpDtT4z/ . It was retrieved through the rendered public post on 12 October 2026. The separately named CampusLens special-award team in that post is distinct from CampusLense (QwertyS), the winning project documented here.

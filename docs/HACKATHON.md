@@ -7,9 +7,15 @@ Final: **24 September 2026**. **Result: first place**.
 Event participation: **200 teams**, reported by QwertyS. This overall-event count is
 not independently confirmed by a published organizer tally or attributed to Case 01 alone.
 
-The team retains first-place certificates bearing the team/participant names; scans are
-not included here yet. The case and regulations establish the event requirements and
-schedule, not the winning team's identity.
+The organizer's [1 October final results](https://www.instagram.com/locus_ed/p/Dd8uIpDtT4z/)
+name QwertyS as the winning team. Its [21 September Case 01 finalists](https://www.instagram.com/locus_ed/p/DdjcB1VtlE6/)
+identify the project as CampusLense (QwertyS). The
+[25 September winners announcement](https://www.instagram.com/locus_ed/p/DdtuwJZFMaU/)
+confirms first place and 13 teams reaching the overall final. The case and regulations
+establish the event requirements and schedule.
+
+The [original final-results artwork](../media/locus-winners.jpg) is retained with organizer
+attribution. The team also retains first-place certificates; their scans are not included yet.
 
 - [Organizer's event announcement](https://www.instagram.com/p/Dc31Wp3CUQF/).
 - [Organizer account](https://www.instagram.com/locus_ed/).
