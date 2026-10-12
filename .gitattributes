@@ -6,3 +6,8 @@
 *.webp binary
 *.mp4 binary
 *.pdf binary
+
+*.jpg binary
+*.png binary
+*.mp4 binary
+*.pptx binary

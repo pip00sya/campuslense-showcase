@@ -10,9 +10,32 @@ An interactive globe, cinematic campus visits and university profiles that keep 
 [Explore the experience](#from-a-country-to-a-campus) · [Photo verification](#a-photo-is-only-useful-if-it-belongs-there) · [Engineering](#what-happens-behind-a-profile) · [Evaluation](#what-was-measured)
 
 [Open CampusLense](https://nnurkhan91--campuslense-web.modal.run/) ·
-[Watch the recorded application demo](media/campuslense-demo.mp4) ·
-[Read the submitted pitch](media/CampusLens.pdf) ·
-[Explore the public source](https://github.com/Eye172/locus-hackathon-1)
+[Watch the three-minute QwertyS walkthrough](media/CampusLense_QwertyS_demo.mp4) ·
+[Read the QwertyS presentation](media/CampusLense_QwertyS_presentation.pdf) ·
+[Source availability](#source-availability)
+
+## Explore the product in motion
+
+[![The retained QwertyS walkthrough: MIT and its surroundings in the 3D campus view.](media/demo-preview.jpg)](media/CampusLense_QwertyS_demo.mp4)
+
+**[▶ Open the three-minute walkthrough](media/CampusLense_QwertyS_demo.mp4)** ·
+[PDF presentation](media/CampusLense_QwertyS_presentation.pdf) ·
+[Editable presentation](media/CampusLense_QwertyS_presentation.pptx)
+
+The named QwertyS package covers university discovery, the 3D campus, categorized
+photos, verification, climate and comparison. It was retained with the October
+migration materials; its filename does not establish which exact media file was
+shown to the September jury. It documents the hackathon product, not a completed pilot.
+
+[![Cover of the named QwertyS presentation, with the project's identity and search index.](media/pitch-preview.jpg)](media/CampusLense_QwertyS_presentation.pdf)
+
+The earlier [2:14 application recording](media/campuslense-demo.mp4) and
+[early pitch draft](media/CampusLens.pdf) remain available for version comparison.
+The early draft still contains a team-name placeholder; it is not the primary pitch here.
+
+For the complete visual record, open the [28-image gallery](docs/GALLERY.md).
+The [technical walkthrough and case mapping](docs/TECHNICAL.md) explains the
+retrieval pipeline, provider boundaries, evidence and local inspection route.
 
 ## From a country to a campus
 
@@ -102,6 +125,17 @@ The retrieval pipeline gathers candidate sources in parallel, downloads the unde
 
 The map and 3D experience run in a **React 19 / TypeScript / Vite** frontend with Tailwind, MapLibre and Google Maps 3D. The service layer uses **Python, FastAPI, SQLite and httpx**; CLIP supports image relevance. Separating the retrieval pipeline from the map keeps expensive discovery work out of the interaction loop.
 
+## Source availability
+
+The application source is maintained privately in the
+[Eye172 full-history project copy](https://github.com/Eye172/locus-hackathon-1).
+That link requires collaborator access at the 12 October 2026 review.
+This public showcase retains the product walkthrough, presentation, gallery,
+case brief, regulations and technical explanation so the project can be reviewed
+without private-code access. Contact either QwertyS engineer for a code review
+or deployment discussion. A public companion is available on
+[Shakhnazar’s account](https://github.com/Eye172/campuslense-showcase).
+
 ## What was measured
 
 | Internal evaluation | Reported result | Scope |
@@ -146,7 +180,7 @@ That brief explains why photo provenance is central to the product. The globe an
 answers the actual case. [The challenge record](docs/HACKATHON.md) includes the original
 case and regulations, submission media and links to the organizer's announcement.
 
-The images, demo and pitch in this repository document the hackathon product. A proposed
+The images and named QwertyS materials document the hackathon product. Older media are identified separately. A proposed
 user pilot is not presented as a completed deployment or a measured adoption result.
 
 ---
@@ -166,7 +200,7 @@ This public case study is maintained on Nurkhan's account.
 [Companion showcase on Shakhnazar's account](https://github.com/Eye172/campuslense-showcase) ·
 [Nurkhan's projects](https://github.com/pip00sya) · [Shakhnazar's projects](https://github.com/Eye172).
 
-[Public implementation and hackathon materials](https://github.com/Eye172/locus-hackathon-1) · [Original team repository](https://github.com/pip00sya/locus) (access depends on repository visibility).
+[Private full-history implementation](https://github.com/Eye172/locus-hackathon-1) · [Private original team repository](https://github.com/pip00sya/locus). Both source links require collaborator access.
 
 [Hackathon record and supporting sources](docs/HACKATHON.md) ·
 [Media provenance](docs/MEDIA.md).

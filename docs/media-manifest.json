@@ -85,9 +85,174 @@
     "sha256": "cadfa7c71df5be3b7e1684c7fd43aac9dccabedfe5b6f43b008ccaf760571ae4"
   },
   {
+    "file": "media/CampusLense_QwertyS_demo.mp4",
+    "bytes": 69799593,
+    "sha256": "bd097c2c74c87ae3de24c475117d1791370fa5ba0306a677e614b17271da8639"
+  },
+  {
+    "file": "media/CampusLense_QwertyS_presentation.pdf",
+    "bytes": 18335882,
+    "sha256": "37172fd7cd410c42aa78b525062e22ca8230ff1e04f78c3e79b240960509d0c9"
+  },
+  {
+    "file": "media/CampusLense_QwertyS_presentation.pptx",
+    "bytes": 10894770,
+    "sha256": "3032c1f282bd8e0e7b0b1bbc7d48891ca181097eed2f699b9a18c8a3439d7ac7"
+  },
+  {
+    "file": "media/demo-preview.jpg",
+    "bytes": 59522,
+    "sha256": "bfa78a665b7ca01c53e91f8a8851c4bac595583026abe397c274819daf8e2f39"
+  },
+  {
+    "file": "media/gallery/01_globe.jpg",
+    "bytes": 131261,
+    "sha256": "04c3f46bccac4299b577e6601ae6942f24caf9614845a792d24a722778b16a22"
+  },
+  {
+    "file": "media/gallery/02_search.jpg",
+    "bytes": 131194,
+    "sha256": "4a56057a72a5e66c813e7c10f8c72f46bb2840b550f947085b4bf0c812bbbc9d"
+  },
+  {
+    "file": "media/gallery/03_flight_spin.jpg",
+    "bytes": 224871,
+    "sha256": "e1193dd06f1cded3f8d9bb23329d94e9b8a38a628acaa9592e6ad6b6a00e72b8"
+  },
+  {
+    "file": "media/gallery/04_flight_clouds.jpg",
+    "bytes": 114756,
+    "sha256": "aac93c7465fc23ed82363e9a280ff74e1088dd8f90191cab62e8b3afd3b3b40c"
+  },
+  {
+    "file": "media/gallery/05_3d_stanford.jpg",
+    "bytes": 427210,
+    "sha256": "be47b46907ff62a2bd261aaae8807ec7bd9fb996794a4508e3196695283d8c46"
+  },
+  {
+    "file": "media/gallery/06_3d_mit.jpg",
+    "bytes": 519669,
+    "sha256": "c72861cca25652dfd29aa073b7c9aaa8649244cbb2fb67919cc5787ee2b2d3da"
+  },
+  {
+    "file": "media/gallery/06_3d_mit_close.jpg",
+    "bytes": 1039568,
+    "sha256": "0bdbcd1965f284805dd95690d4b6929df9fbfe5afadec325f164246842893f40"
+  },
+  {
+    "file": "media/gallery/07_3d_nu.jpg",
+    "bytes": 443982,
+    "sha256": "c116b3788bef5cc84f211332db8e0997c822ece1f254a76f3442e3e59c5f57df"
+  },
+  {
+    "file": "media/gallery/07_3d_nu_panel.jpg",
+    "bytes": 389796,
+    "sha256": "f79eb840ff0a79cdfa5752582e1151cf8ea2e7fbdf0351436fd5339766de4cb5"
+  },
+  {
+    "file": "media/gallery/08_profile.jpg",
+    "bytes": 1124713,
+    "sha256": "6f22d5398a1c72345b73a02cb64a5203c83e9ae09c942249137732dbeca8878e"
+  },
+  {
+    "file": "media/gallery/09_photos_albums.jpg",
+    "bytes": 1022473,
+    "sha256": "95b4d1494441a3ea2441019b3ae2c426dd4cc97a58ef803523cbd813f81e4f36"
+  },
+  {
+    "file": "media/gallery/10_photos_filter_dorm.jpg",
+    "bytes": 526438,
+    "sha256": "9266b51e418b21d65f1dbc4be312daa009c943c61bcf5e79458835e57efac82c"
+  },
+  {
+    "file": "media/gallery/11_photos_brochure_reality.jpg",
+    "bytes": 2047366,
+    "sha256": "05e3b505f9a299c33a5f200967bebc93575bd7c667c74994e710d5b620fc7c12"
+  },
+  {
+    "file": "media/gallery/12_photo_passport.jpg",
+    "bytes": 172349,
+    "sha256": "f3076e46ec38865e907625e7f260d500a3051f43ea8a044ce61033c269fb939c"
+  },
+  {
+    "file": "media/gallery/13_campus.jpg",
+    "bytes": 513508,
+    "sha256": "25b3352719bcf0535312459dff5539086cac9311056568f90ef441b94f515ac8"
+  },
+  {
+    "file": "media/gallery/14_city.jpg",
+    "bytes": 308477,
+    "sha256": "8068f52a9ad7c1453c6170a39ed94a91a8ca177ed37c6cbe6473f808fd0cfefd"
+  },
+  {
+    "file": "media/gallery/15_climate.jpg",
+    "bytes": 543243,
+    "sha256": "19231a9464e9bf07c30357956aea0adb4dbe9a03d4e4a4bced9689fdd79ff5d7"
+  },
+  {
+    "file": "media/gallery/16_verify.jpg",
+    "bytes": 480847,
+    "sha256": "51ff8b84405a8f50b4a8fccf06919f76c40e943cf04b27d697ecd3c0b068fb4b"
+  },
+  {
+    "file": "media/gallery/17_tour_3d_photos.jpg",
+    "bytes": 279760,
+    "sha256": "aaad56567c5675e794f706b9b04bb02a0c4abb8ee2ca1032407dd4fd343890ab"
+  },
+  {
+    "file": "media/gallery/18_tour_walk_street.jpg",
+    "bytes": 219350,
+    "sha256": "11c5eae68f0a8433999db268268e1c652e7988e534e96508c49aa258c9050231"
+  },
+  {
+    "file": "media/gallery/19_tour_walk_inside.jpg",
+    "bytes": 367193,
+    "sha256": "9b5222b88bf6176d2e02145d1957992941f38081022bc2474f0888da53bb14a7"
+  },
+  {
+    "file": "media/gallery/20_tour_walk_inside_sports.jpg",
+    "bytes": 287014,
+    "sha256": "077918069f7583fb1626b05785ed8b55b3d19d73ce376a5da8ceef6580d7a569"
+  },
+  {
+    "file": "media/gallery/21_compare.jpg",
+    "bytes": 746875,
+    "sha256": "5aaca56f4e288ccae0454f4819d1ecb05df6d905404f8643653808861c015b2a"
+  },
+  {
+    "file": "media/gallery/22_saved.jpg",
+    "bytes": 60336,
+    "sha256": "8ad458ad703a2dd5af434f110736d8d78f8cee83bdb94f46f909c3b708fd84e6"
+  },
+  {
+    "file": "media/gallery/23_search_settings.jpg",
+    "bytes": 152536,
+    "sha256": "da8b1f49325072ee4f902f52529a31d6243acd68590c29a8d9745b0c58c465a9"
+  },
+  {
+    "file": "media/gallery/24_mobile_profile.jpg",
+    "bytes": 187113,
+    "sha256": "64583c0b167d063c65aa8fc502e6e241305e028d18d1741e03a59fbb95a1480b"
+  },
+  {
+    "file": "media/gallery/25_mobile_globe.jpg",
+    "bytes": 176217,
+    "sha256": "d4257ed1e43f21ab1c19faa9af7293bb359223d420621df0dae0c5882dfcb77b"
+  },
+  {
+    "file": "media/gallery/26_share_card.jpg",
+    "bytes": 139688,
+    "sha256": "e9ac927424958c34be485e59b1eb3d4bc19373b800b0b65d92c8136dbb38cee0"
+  },
+  {
     "file": "media/locus-winners.jpg",
     "bytes": 107718,
     "sha256": "5d2ac39ef67b63f1b334a8f682aa72b3b0b4788881432e03f0d5706b971aa80a"
+  },
+  {
+    "file": "media/pitch-preview.jpg",
+    "bytes": 127791,
+    "sha256": "53fe7ed6b0fc25c9670aa3d3d420afbb10584a286b0423ed1e78bd8278482e4e"
   },
   {
     "file": "mobile-profile.jpg",

@@ -23,8 +23,9 @@ attribution. The team also retains first-place certificates; their scans are not
 - [Secondary event listing](https://hackathon.kz/event.html?slug=locus-startup-hackathon-2026).
 - [Original case PDF](../materials/LOCUS-Case-01.pdf).
 - [Original regulations, revision 2](../materials/LOCUS-Regulations-v2.pdf).
-- [Submitted pitch](../media/CampusLens.pdf) and [application recording](../media/campuslense-demo.mp4).
-- [Source and submission materials](https://github.com/Eye172/locus-hackathon-1).
+- [Early pitch draft](../media/CampusLens.pdf) and [earlier application recording](../media/campuslense-demo.mp4); the named QwertyS package is described below.
+- [Private source and migration materials](https://github.com/Eye172/locus-hackathon-1)
+  (collaborator access required; public pitch and video are retained in this showcase).
 
 The case called for a quickly assembled university profile with categorized, deduplicated
 photographs and inspectable sources. Internal product measurements in the README come
@@ -32,3 +33,17 @@ from the project's own labelled sample and recorded runs, not an organizer-issue
 
 
 Sources reviewed: 12 October 2026.
+
+
+## Retained presentation versions
+
+The named QwertyS package now provides the primary
+[180-second walkthrough](../media/CampusLense_QwertyS_demo.mp4),
+[PDF presentation](../media/CampusLense_QwertyS_presentation.pdf) and
+[editable deck](../media/CampusLense_QwertyS_presentation.pptx).
+These were retained in the October migration record. No claim is made that
+these exact binaries were the September jury submission.
+
+The earlier [133.72-second recording](../media/campuslense-demo.mp4) and
+[pitch draft](../media/CampusLens.pdf) are preserved. The draft contains an
+unfilled team name, so it is no longer labelled as the primary submitted pitch.
