@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+<title id="title">Mean feature ratings</title><desc id="desc">Feature ratings from 21 pilot survey responses.</desc>
+<rect width="1200" height="680" rx="20" fill="#101c2d"/>
+<g font-family="Arial, sans-serif">
+<text x="40" y="53" font-size="30" fill="#eaf0f6" font-weight="700" text-anchor="start">Feature ratings</text>
+<text x="40" y="87" font-size="17" fill="#b7c8d9" font-weight="400" text-anchor="start">Pilot survey · 0–10 scale · 21 responses</text>
+<text x="40" y="147" font-size="19" fill="#eaf0f6" font-weight="400" text-anchor="start">3D campus</text>
+<rect x="365" y="126" width="730" height="29" rx="5" fill="#23374c"/>
+<rect x="365" y="126" width="613.2" height="29" rx="5" fill="#73e5cd"/>
+<text x="1148" y="148" font-size="21" fill="#eaf0f6" font-weight="700" text-anchor="end">8.4</text>
+<text x="40" y="201" font-size="19" fill="#eaf0f6" font-weight="400" text-anchor="start">Globe and search</text>
+<rect x="365" y="180" width="730" height="29" rx="5" fill="#23374c"/>
+<rect x="365" y="180" width="584.0" height="29" rx="5" fill="#73e5cd"/>
+<text x="1148" y="202" font-size="21" fill="#eaf0f6" font-weight="700" text-anchor="end">8.0</text>
+<text x="40" y="255" font-size="19" fill="#eaf0f6" font-weight="400" text-anchor="start">Brochure vs. reality</text>
+<rect x="365" y="234" width="730" height="29" rx="5" fill="#23374c"/>
+<rect x="365" y="234" width="569.4" height="29" rx="5" fill="#73e5cd"/>
+<text x="1148" y="256" font-size="21" fill="#eaf0f6" font-weight="700" text-anchor="end">7.8</text>
+<text x="40" y="309" font-size="19" fill="#eaf0f6" font-weight="400" text-anchor="start">Photos by category</text>
+<rect x="365" y="288" width="730" height="29" rx="5" fill="#23374c"/>
+<rect x="365" y="288" width="540.2" height="29" rx="5" fill="#73e5cd"/>
+<text x="1148" y="310" font-size="21" fill="#eaf0f6" font-weight="700" text-anchor="end">7.4</text>
+<text x="40" y="363" font-size="19" fill="#eaf0f6" font-weight="400" text-anchor="start">Climate and city</text>
+<rect x="365" y="342" width="730" height="29" rx="5" fill="#23374c"/>
+<rect x="365" y="342" width="496.4" height="29" rx="5" fill="#efbf6a"/>
+<text x="1148" y="364" font-size="21" fill="#eaf0f6" font-weight="700" text-anchor="end">6.8</text>
+<text x="40" y="417" font-size="19" fill="#eaf0f6" font-weight="400" text-anchor="start">Photo passport</text>
+<rect x="365" y="396" width="730" height="29" rx="5" fill="#23374c"/>
+<rect x="365" y="396" width="459.9" height="29" rx="5" fill="#efbf6a"/>
+<text x="1148" y="418" font-size="21" fill="#eaf0f6" font-weight="700" text-anchor="end">6.3</text>
+<text x="40" y="471" font-size="19" fill="#eaf0f6" font-weight="400" text-anchor="start">Comparison and saved</text>
+<rect x="365" y="450" width="730" height="29" rx="5" fill="#23374c"/>
+<rect x="365" y="450" width="438.0" height="29" rx="5" fill="#efbf6a"/>
+<text x="1148" y="472" font-size="21" fill="#eaf0f6" font-weight="700" text-anchor="end">6.0</text>
+<text x="40" y="525" font-size="19" fill="#eaf0f6" font-weight="400" text-anchor="start">Mobile experience</text>
+<rect x="365" y="504" width="730" height="29" rx="5" fill="#23374c"/>
+<rect x="365" y="504" width="408.79999999999995" height="29" rx="5" fill="#efbf6a"/>
+<text x="1148" y="526" font-size="21" fill="#eaf0f6" font-weight="700" text-anchor="end">5.6</text>
+<text x="40" y="579" font-size="19" fill="#eaf0f6" font-weight="400" text-anchor="start">Build speed</text>
+<rect x="365" y="558" width="730" height="29" rx="5" fill="#23374c"/>
+<rect x="365" y="558" width="379.6" height="29" rx="5" fill="#efbf6a"/>
+<text x="1148" y="580" font-size="21" fill="#eaf0f6" font-weight="700" text-anchor="end">5.2</text>
+<text x="40" y="642" font-size="16" fill="#d6c3a0" font-weight="400" text-anchor="start">Source: summary, p. 25. Response distributions are included; individual scores are unavailable.</text>
+</g>
+</svg>

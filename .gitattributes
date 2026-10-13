@@ -11,3 +11,6 @@
 *.png binary
 *.mp4 binary
 *.pptx binary
+
+# Preserve pilot package checksums on every platform.
+docs/pilot/** -text

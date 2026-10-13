@@ -1,0 +1,9 @@
+﻿criterion,label,comparison,threshold,reported_value,unit,reported_result,source_page,evidence_status
+activated,Activated accounts,>=,100,104,count,fulfilled,26,pilot_result_attested_by_project_lead
+conversion,Visitor-to-account conversion,>=,25,26.9547,percent,fulfilled,26,pilot_result_attested_by_project_lead
+d7,Day-seven return,>=,10,9.2593,percent,not_fulfilled,26,pilot_result_attested_by_project_lead
+sus,SUS,>=,68,71,score,fulfilled,26,pilot_result_attested_by_project_lead
+nps,NPS,>=,20,9.5238,score,not_fulfilled,26,pilot_result_attested_by_project_lead
+ellis,Ellis test,>=,40,19.0476,percent,not_fulfilled,26,pilot_result_attested_by_project_lead
+build_success,Successful builds,>=,95,84.1046,percent,not_fulfilled,26,pilot_result_attested_by_project_lead
+expense,Expenses,<=,100,30–70,USD,fulfilled_on_reported_range,26,pilot_result_attested_by_project_lead

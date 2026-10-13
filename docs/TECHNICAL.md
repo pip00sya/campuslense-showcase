@@ -94,4 +94,4 @@ current environment templates with your own restricted provider credentials.
 
 The named package was retained in the October migration. The archive alone does
 not establish which exact binary was submitted at the September deadline. A
-planned applicant pilot remains future work; no adoption result is claimed.
+completed applicant pilot ran from 1 to 10 October 2026; its results are in the [pilot report](pilot/README.md).

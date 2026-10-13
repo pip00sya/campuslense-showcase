@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360" role="img" aria-labelledby="title desc">
+<title id="title">Daily pilot results</title>
+<desc id="desc">New visitors, successful builds, and sign-ins for 1–10 October 2026.</desc>
+<rect width="720" height="360" fill="#ffffff"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<circle cx="50" cy="22" r="5" fill="#6654c6"/><text x="63" y="27" font-size="15" fill="#17233b">Visitors</text>
+<circle cx="240" cy="22" r="5" fill="#187f76"/><text x="253" y="27" font-size="15" fill="#17233b">Builds</text>
+<circle cx="430" cy="22" r="5" fill="#976321"/><text x="443" y="27" font-size="15" fill="#17233b">Sign-ins</text>
+<line x1="50" x2="690" y1="280.0" y2="280.0" stroke="#e1e5ed"/><text x="38" y="285.0" text-anchor="end" font-size="14" fill="#59677c">0</text>
+<line x1="50" x2="690" y1="206.66666666666669" y2="206.66666666666669" stroke="#e1e5ed"/><text x="38" y="211.66666666666669" text-anchor="end" font-size="14" fill="#59677c">50</text>
+<line x1="50" x2="690" y1="133.33333333333334" y2="133.33333333333334" stroke="#e1e5ed"/><text x="38" y="138.33333333333334" text-anchor="end" font-size="14" fill="#59677c">100</text>
+<line x1="50" x2="690" y1="60.0" y2="60.0" stroke="#e1e5ed"/><text x="38" y="65.0" text-anchor="end" font-size="14" fill="#59677c">150</text>
+<text x="50.0" y="310" text-anchor="middle" font-size="14" fill="#59677c">1</text>
+<text x="121.11111111111111" y="310" text-anchor="middle" font-size="14" fill="#59677c">2</text>
+<text x="192.22222222222223" y="310" text-anchor="middle" font-size="14" fill="#59677c">3</text>
+<text x="263.3333333333333" y="310" text-anchor="middle" font-size="14" fill="#59677c">4</text>
+<text x="334.44444444444446" y="310" text-anchor="middle" font-size="14" fill="#59677c">5</text>
+<text x="405.55555555555554" y="310" text-anchor="middle" font-size="14" fill="#59677c">6</text>
+<text x="476.66666666666663" y="310" text-anchor="middle" font-size="14" fill="#59677c">7</text>
+<text x="547.7777777777778" y="310" text-anchor="middle" font-size="14" fill="#59677c">8</text>
+<text x="618.8888888888889" y="310" text-anchor="middle" font-size="14" fill="#59677c">9</text>
+<text x="690.0" y="310" text-anchor="middle" font-size="14" fill="#59677c">10</text>
+<polyline points="50.00,71.73 121.11,175.87 192.22,224.27 263.33,244.80 334.44,255.07 405.56,139.20 476.67,208.13 547.78,246.27 618.89,258.00 690.00,263.87" fill="none" stroke="#6654c6" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="50.00" cy="71.73" r="4" fill="#6654c6"/>
+<circle cx="121.11" cy="175.87" r="4" fill="#6654c6"/>
+<circle cx="192.22" cy="224.27" r="4" fill="#6654c6"/>
+<circle cx="263.33" cy="244.80" r="4" fill="#6654c6"/>
+<circle cx="334.44" cy="255.07" r="4" fill="#6654c6"/>
+<circle cx="405.56" cy="139.20" r="4" fill="#6654c6"/>
+<circle cx="476.67" cy="208.13" r="4" fill="#6654c6"/>
+<circle cx="547.78" cy="246.27" r="4" fill="#6654c6"/>
+<circle cx="618.89" cy="258.00" r="4" fill="#6654c6"/>
+<circle cx="690.00" cy="263.87" r="4" fill="#6654c6"/>
+<polyline points="50.00,194.93 121.11,199.33 192.22,224.27 263.33,240.40 334.44,250.67 405.56,168.53 476.67,192.00 547.78,227.20 618.89,241.87 690.00,247.73" fill="none" stroke="#187f76" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="50.00" cy="194.93" r="4" fill="#187f76"/>
+<circle cx="121.11" cy="199.33" r="4" fill="#187f76"/>
+<circle cx="192.22" cy="224.27" r="4" fill="#187f76"/>
+<circle cx="263.33" cy="240.40" r="4" fill="#187f76"/>
+<circle cx="334.44" cy="250.67" r="4" fill="#187f76"/>
+<circle cx="405.56" cy="168.53" r="4" fill="#187f76"/>
+<circle cx="476.67" cy="192.00" r="4" fill="#187f76"/>
+<circle cx="547.78" cy="227.20" r="4" fill="#187f76"/>
+<circle cx="618.89" cy="241.87" r="4" fill="#187f76"/>
+<circle cx="690.00" cy="247.73" r="4" fill="#187f76"/>
+<polyline points="50.00,234.53 121.11,247.73 192.22,263.87 263.33,269.73 334.44,274.13 405.56,237.47 476.67,259.47 547.78,271.20 618.89,274.13 690.00,275.60" fill="none" stroke="#976321" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="50.00" cy="234.53" r="4" fill="#976321"/>
+<circle cx="121.11" cy="247.73" r="4" fill="#976321"/>
+<circle cx="192.22" cy="263.87" r="4" fill="#976321"/>
+<circle cx="263.33" cy="269.73" r="4" fill="#976321"/>
+<circle cx="334.44" cy="274.13" r="4" fill="#976321"/>
+<circle cx="405.56" cy="237.47" r="4" fill="#976321"/>
+<circle cx="476.67" cy="259.47" r="4" fill="#976321"/>
+<circle cx="547.78" cy="271.20" r="4" fill="#976321"/>
+<circle cx="618.89" cy="274.13" r="4" fill="#976321"/>
+<circle cx="690.00" cy="275.60" r="4" fill="#976321"/>
+<text x="50" y="347" font-size="14" fill="#59677c">Days of October · 2026</text></g></svg>

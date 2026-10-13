@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">CampusLense pilot summary</title><desc id="desc">Pilot results for 1–10 October 2026: 486 visitors, 131 accounts, 104 activations, 418 successful builds.</desc>
+<rect width="1200" height="360" rx="20" fill="#101c2d"/>
+<g font-family="Arial, sans-serif">
+<text x="40" y="61" font-size="36" fill="#eaf0f6" font-weight="700" text-anchor="start">CampusLense</text>
+<text x="40" y="96" font-size="16" fill="#9fb5c9" font-weight="400" text-anchor="start">PILOT  ·  1–10 OCTOBER  ·  KEY RESULTS</text>
+<rect x="40" y="133" width="268" height="153" rx="12" fill="#1b2c41"/>
+<text x="60" y="187" font-size="42" fill="#73e5cd" font-weight="700" text-anchor="start">486</text>
+<text x="60" y="221" font-size="20" fill="#eaf0f6" font-weight="700" text-anchor="start">Visitors</text>
+<text x="60" y="253" font-size="15" fill="#b7c8d9" font-weight="400" text-anchor="start">Pilot results</text>
+<rect x="324" y="133" width="268" height="153" rx="12" fill="#1b2c41"/>
+<text x="344" y="187" font-size="42" fill="#73e5cd" font-weight="700" text-anchor="start">131</text>
+<text x="344" y="221" font-size="20" fill="#eaf0f6" font-weight="700" text-anchor="start">Accounts</text>
+<text x="344" y="253" font-size="15" fill="#b7c8d9" font-weight="400" text-anchor="start">27.0% of visitors</text>
+<rect x="608" y="133" width="268" height="153" rx="12" fill="#1b2c41"/>
+<text x="628" y="187" font-size="42" fill="#73e5cd" font-weight="700" text-anchor="start">104</text>
+<text x="628" y="221" font-size="20" fill="#eaf0f6" font-weight="700" text-anchor="start">Activations</text>
+<text x="628" y="253" font-size="15" fill="#b7c8d9" font-weight="400" text-anchor="start">79.4% of accounts</text>
+<rect x="892" y="133" width="268" height="153" rx="12" fill="#1b2c41"/>
+<text x="912" y="187" font-size="42" fill="#73e5cd" font-weight="700" text-anchor="start">418</text>
+<text x="912" y="221" font-size="20" fill="#eaf0f6" font-weight="700" text-anchor="start">Successful builds</text>
+<text x="912" y="253" font-size="15" fill="#b7c8d9" font-weight="400" text-anchor="start">84.1% of requests</text>
+<text x="40" y="324" font-size="16" fill="#d6c3a0" font-weight="400" text-anchor="start">1–10 October 2026 · Source: CampusLense summary, pp. 21–24.</text>
+</g>
+</svg>

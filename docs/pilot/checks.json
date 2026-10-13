@@ -1,0 +1,129 @@
+{
+  "metric_count": 149,
+  "daily_totals": {
+    "visitors": 486,
+    "registrations": 131,
+    "profiles": 418
+  },
+  "percentage_checks": 20,
+  "nps_recalculated": "9.5238",
+  "criteria_met": 4,
+  "criteria_total": 8,
+  "rating_distributions": 9,
+  "relative_links_checked": 52,
+  "report_image_dimensions": {
+    "pilot-feedback.png": [
+      1440,
+      962
+    ],
+    "pilot-overview.png": [
+      1440,
+      982
+    ],
+    "pilot-quality.png": [
+      1440,
+      800
+    ]
+  },
+  "umami_image_dimensions": {
+    "umami-events.jpg": [
+      936,
+      871
+    ],
+    "umami-overview.jpg": [
+      936,
+      871
+    ],
+    "umami-sessions.jpg": [
+      936,
+      871
+    ]
+  },
+  "svg_charts": 3,
+  "evidence_basis": "project_lead_attestation_and_summary_document",
+  "verification_scope": "arithmetic_links_assets_and_package_integrity",
+  "status": "PASS",
+  "check_scope": "package_consistency_and_report_views",
+  "publication_language": "en",
+  "english_text_scan": "PASS",
+  "original_application_source_baseline_preserved": true,
+  "original_source_pdf_hash_preserved": true,
+  "configured_private_values_scan": "PASS",
+  "image_metadata_scan": "no_EXIF_text_or_time_chunks",
+  "primary_records_independently_verified": false,
+  "pilot_result_status": "attested_by_project_lead",
+  "report_view_checks": {
+    "status": "PASS",
+    "layouts": [
+      {
+        "width": 375,
+        "view": "overview",
+        "horizontal_overflow": false
+      },
+      {
+        "width": 375,
+        "view": "quality",
+        "horizontal_overflow": false
+      },
+      {
+        "width": 375,
+        "view": "feedback",
+        "horizontal_overflow": false
+      },
+      {
+        "width": 768,
+        "view": "overview",
+        "horizontal_overflow": false
+      },
+      {
+        "width": 768,
+        "view": "quality",
+        "horizontal_overflow": false
+      },
+      {
+        "width": 768,
+        "view": "feedback",
+        "horizontal_overflow": false
+      },
+      {
+        "width": 1024,
+        "view": "overview",
+        "horizontal_overflow": false
+      },
+      {
+        "width": 1024,
+        "view": "quality",
+        "horizontal_overflow": false
+      },
+      {
+        "width": 1024,
+        "view": "feedback",
+        "horizontal_overflow": false
+      },
+      {
+        "width": 1440,
+        "view": "overview",
+        "horizontal_overflow": false
+      },
+      {
+        "width": 1440,
+        "view": "quality",
+        "horizontal_overflow": false
+      },
+      {
+        "width": 1440,
+        "view": "feedback",
+        "horizontal_overflow": false
+      }
+    ],
+    "report_views": 3,
+    "image_loads": "PASS",
+    "keyboard_navigation": "PASS",
+    "reduced_motion": "PASS",
+    "browser_errors": 0,
+    "external_requests": 0
+  },
+  "git_commits_created": false,
+  "git_push_performed": false,
+  "external_upload_performed": false
+}

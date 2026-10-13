@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "publication_language": "en",
+  "pilot_period": {
+    "start": "2026-10-01",
+    "end": "2026-10-10"
+  },
+  "capture_source": "direct local Umami UI",
+  "captures": [
+    "umami-overview.jpg",
+    "umami-events.jpg",
+    "umami-sessions.jpg"
+  ],
+  "overview_counts": {
+    "visitors": 486,
+    "visits": 808,
+    "page_views": 1557
+  },
+  "custom_event_count": 3509,
+  "event_types": 21,
+  "obsolete_interface_notice_removed": true,
+  "event_records_rewritten": false,
+  "independent_original_event_verification": false,
+  "git_upload_performed": false
+}

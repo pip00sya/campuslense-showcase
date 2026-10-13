@@ -1,0 +1,132 @@
+{
+  "algorithm": "SHA-256",
+  "scope": "package_integrity_not_historical_attestation",
+  "excluded_self": "file-manifest.json",
+  "files": [
+    {
+      "path": "assets/daily.svg",
+      "bytes": 4718,
+      "sha256": "911f6f0fdaef131bd4a132fe391a340f506376e576669ad833de555215187615"
+    },
+    {
+      "path": "assets/pilot-feedback.png",
+      "bytes": 56855,
+      "sha256": "999d05071b833deff6aa19fa95595ceca6050d2693656a63d35712046b468b2d"
+    },
+    {
+      "path": "assets/pilot-overview.png",
+      "bytes": 78874,
+      "sha256": "082b5f2d91d5e24e49fdc66bde279718294871d2b396d264586665fd973d2564"
+    },
+    {
+      "path": "assets/pilot-quality.png",
+      "bytes": 55409,
+      "sha256": "a06454e2809db5433c6fb4d848a520c6bccadecea9a968fa426b7feb25616175"
+    },
+    {
+      "path": "assets/ratings.svg",
+      "bytes": 4000,
+      "sha256": "a213c81155f6e08d0f3c5d522bc0c2ab58d9cbd47559fd7b22ed860a4886ad16"
+    },
+    {
+      "path": "assets/summary.svg",
+      "bytes": 2402,
+      "sha256": "b3358377675850ba1ca28c2cf39142c8bb882926637030157df4ac6feb118755"
+    },
+    {
+      "path": "assets/umami-events.jpg",
+      "bytes": 52302,
+      "sha256": "4494b57f58a3567a56bd6a108207804a0a27d8391cb386190abc2e66cbfe6a84"
+    },
+    {
+      "path": "assets/umami-overview.jpg",
+      "bytes": 47624,
+      "sha256": "7bc84fe28a93e8585761514ff410d124c127032b313e85614e9a2ca642e0400b"
+    },
+    {
+      "path": "assets/umami-sessions.jpg",
+      "bytes": 37361,
+      "sha256": "bb6a56291880b80a6638e466117a9937a9a0a344c749d27666e90d317f19d8e8"
+    },
+    {
+      "path": "checks.json",
+      "bytes": 2890,
+      "sha256": "f65edc6d9bb3b13bb1e90cc268c69cc558392267e744a848ca38ce7c6294991a"
+    },
+    {
+      "path": "COSTS.md",
+      "bytes": 650,
+      "sha256": "fe7a772466009a5d84ec4dd4e267c9a44e5836753d11d313e8c04f742cce4941"
+    },
+    {
+      "path": "dashboard.html",
+      "bytes": 9808,
+      "sha256": "f4d2aa709a89a5abc9da84b69a19762311eeec1c77666dfb34200ecfad78de18"
+    },
+    {
+      "path": "data/country-distribution.csv",
+      "bytes": 672,
+      "sha256": "e8395471da20b9ad10ea009fbf2d7091a0574b9053f753943f11c7f67c7b2484"
+    },
+    {
+      "path": "data/daily.csv",
+      "bytes": 712,
+      "sha256": "94573f6613e8084683e5f43bdc373b24a0b0108af2e358094e088bb1f433109b"
+    },
+    {
+      "path": "data/feature-ratings.csv",
+      "bytes": 856,
+      "sha256": "a2c386ee17438bdd512eeb45b7255cc66f868020995f222fc63f1020fca0edf6"
+    },
+    {
+      "path": "data/feedback-themes.csv",
+      "bytes": 1153,
+      "sha256": "c4a00c6a6feb73fbd100e3d29edae0d1aef977b0fe7d0eac483657c7e22bf91d"
+    },
+    {
+      "path": "data/metrics.csv",
+      "bytes": 16539,
+      "sha256": "a20f65dd6a2d39757f13a0c15b0567a63558b8b0b2dbc417947ee7353039b94d"
+    },
+    {
+      "path": "data/provenance.json",
+      "bytes": 1270,
+      "sha256": "23ec885b66ac610efe454fc566c61e757b43c8f09ff5e4c699d536aa721aceda"
+    },
+    {
+      "path": "data/success-criteria.csv",
+      "bytes": 875,
+      "sha256": "98db04428d0686a7a1b3af63d00300d246ad48286453ea8158b0440bdb510403"
+    },
+    {
+      "path": "data/umami-capture-info.json",
+      "bytes": 580,
+      "sha256": "9a8425e747eb5b0590cfd50fbcefa0f148dbdc82a78eea146389f5b3d2ba3479"
+    },
+    {
+      "path": "METHODOLOGY.md",
+      "bytes": 3816,
+      "sha256": "ba728789633a9e6360a8bb6cf5bf09e34f48d5e651ff7ca8f779e0cdbe3b1c4f"
+    },
+    {
+      "path": "METRICS.md",
+      "bytes": 7300,
+      "sha256": "5b053d282733b714ea2ffa6ac7aa2e475093ffb3efbd55620737ab09e0412ab4"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4416,
+      "sha256": "710bf18eb34f43b5a6abb272a7c5eb0b7a43871422bce95fa49ee75e303e6241"
+    },
+    {
+      "path": "SCREENSHOTS.md",
+      "bytes": 2764,
+      "sha256": "b29c6d9539a09d10bb1b7823ad1eda6dd9f4c95abab3f0e689db86fac01306c5"
+    },
+    {
+      "path": "verify_report.py",
+      "bytes": 11314,
+      "sha256": "41e68fd818eda4da79b79df521410b8c42ae4c4e8adebaa53c7c7907feb3ffd6"
+    }
+  ]
+}

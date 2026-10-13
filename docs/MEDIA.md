@@ -34,6 +34,6 @@ the organizer's result announcement, linked in [HACKATHON.md](HACKATHON.md).
 University photographs, maps and panoramas retain their respective rights and
 attributions. This portfolio does not relicense those assets. Internal accuracy
 and speed figures are described as team-reported development measurements.
-The planned user pilot is not shown as completed or measured adoption.
+These media cover the hackathon product. Results of the completed 1–10 October 2026 pilot are in the [pilot report](pilot/README.md).
 
 [File hashes and sizes](media-manifest.json).
