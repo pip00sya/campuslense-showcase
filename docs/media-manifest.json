@@ -85,6 +85,21 @@
     "sha256": "cadfa7c71df5be3b7e1684c7fd43aac9dccabedfe5b6f43b008ccaf760571ae4"
   },
   {
+    "file": "media/locus-winners.jpg",
+    "bytes": 107718,
+    "sha256": "5d2ac39ef67b63f1b334a8f682aa72b3b0b4788881432e03f0d5706b971aa80a"
+  },
+  {
+    "file": "mobile-profile.jpg",
+    "bytes": 187113,
+    "sha256": "64583c0b167d063c65aa8fc502e6e241305e028d18d1741e03a59fbb95a1480b"
+  },
+  {
+    "file": "verification.jpg",
+    "bytes": 480847,
+    "sha256": "51ff8b84405a8f50b4a8fccf06919f76c40e943cf04b27d697ecd3c0b068fb4b"
+  },
+  {
     "file": "media/CampusLense_QwertyS_demo.mp4",
     "bytes": 69799593,
     "sha256": "bd097c2c74c87ae3de24c475117d1791370fa5ba0306a677e614b17271da8639"
@@ -245,23 +260,8 @@
     "sha256": "e9ac927424958c34be485e59b1eb3d4bc19373b800b0b65d92c8136dbb38cee0"
   },
   {
-    "file": "media/locus-winners.jpg",
-    "bytes": 107718,
-    "sha256": "5d2ac39ef67b63f1b334a8f682aa72b3b0b4788881432e03f0d5706b971aa80a"
-  },
-  {
     "file": "media/pitch-preview.jpg",
     "bytes": 127791,
     "sha256": "53fe7ed6b0fc25c9670aa3d3d420afbb10584a286b0423ed1e78bd8278482e4e"
-  },
-  {
-    "file": "mobile-profile.jpg",
-    "bytes": 187113,
-    "sha256": "64583c0b167d063c65aa8fc502e6e241305e028d18d1741e03a59fbb95a1480b"
-  },
-  {
-    "file": "verification.jpg",
-    "bytes": 480847,
-    "sha256": "51ff8b84405a8f50b4a8fccf06919f76c40e943cf04b27d697ecd3c0b068fb4b"
   }
 ]

@@ -7,12 +7,11 @@ An interactive globe, cinematic campus visits and university profiles that keep 
 
 *Campus exploration in the working prototype: a 3D visit opens alongside the university context.*
 
-[Explore the experience](#from-a-country-to-a-campus) · [Photo verification](#a-photo-is-only-useful-if-it-belongs-there) · [Engineering](#what-happens-behind-a-profile) · [Evaluation](#what-was-measured)
+[Explore the experience](#from-a-country-to-a-campus) · [Photo verification](#a-photo-is-only-useful-if-it-belongs-there) · [Engineering](#what-happens-behind-a-profile) · [Evaluation](#what-was-measured) · [Applicant pilot](docs/pilot/README.md)
 
 [Open CampusLense](https://nnurkhan91--campuslense-web.modal.run/) ·
-[Watch the three-minute QwertyS walkthrough](media/CampusLense_QwertyS_demo.mp4) ·
-[Read the QwertyS presentation](media/CampusLense_QwertyS_presentation.pdf) ·
-[Source availability](#source-availability)
+[Watch the three-minute walkthrough](media/CampusLense_QwertyS_demo.mp4) ·
+[Read the QwertyS presentation](media/CampusLense_QwertyS_presentation.pdf)
 
 ## Explore the product in motion
 
@@ -127,14 +126,7 @@ The map and 3D experience run in a **React 19 / TypeScript / Vite** frontend wit
 
 ## Source availability
 
-The application source is maintained privately in the
-[Eye172 full-history project copy](https://github.com/Eye172/locus-hackathon-1).
-That link requires collaborator access at the 12 October 2026 review.
-This public showcase retains the product walkthrough, presentation, gallery,
-case brief, regulations and technical explanation so the project can be reviewed
-without private-code access. Contact either QwertyS engineer for a code review
-or deployment discussion. A public companion is available on
-[Shakhnazar’s account](https://github.com/Eye172/campuslense-showcase).
+The implementation is private. This public case study includes the product walkthrough, presentation, gallery and technical explanation for review without source access. Both QwertyS engineers are credited below; contact either for a code review or deployment discussion.
 
 ## What was measured
 
@@ -155,9 +147,11 @@ Visitor-to-account conversion was **27.0%**; account activation was **79.4%**. O
 
 The strongest-rated feature was the **3D campus (8.4/10)**. Build speed (**5.2/10**) and the mobile experience (**5.6/10**) are the main priorities for improvement. Median build time was **34 seconds**; the 95th percentile was **96 seconds**.
 
+[![CampusLense pilot overview: visitors, accounts, activations and successful builds](docs/pilot/assets/pilot-overview.png)](docs/pilot/README.md)
+
 [Read the complete pilot report](docs/pilot/README.md) · [Metrics and definitions](docs/pilot/METRICS.md) · [Report images](docs/pilot/SCREENSHOTS.md)
 
-The project lead confirmed the period and the figures as completed-pilot results. The report uses the retained aggregate summary; participant-level records and the original analytics export are outside this package.
+The report combines pilot analytics, profile-build results and feedback from 21 survey respondents. [Metric definitions and calculations](docs/pilot/METHODOLOGY.md).
 
 ## The LOCUS challenge behind the product
 
@@ -165,7 +159,7 @@ CampusLense was developed for **LOCUS Startup Hackathon 2026**, organized by **L
 Education**, and received **first place**. The organizer's
 [final results](https://www.instagram.com/locus_ed/p/Dd8uIpDtT4z/) name **QwertyS** as the
 winner; its [Case 01 finalist list](https://www.instagram.com/locus_ed/p/DdjcB1VtlE6/)
-identifies **CampusLense (QwertyS)**. The team also retains first-place certificates.
+identifies **CampusLense (QwertyS)**. Shakhnazar’s [first-place certificate](docs/awards/locus-first-place.pdf) is available below.
 
 <details><summary>Official LOCUS results</summary>
 
@@ -192,26 +186,32 @@ That brief explains why photo provenance is central to the product. The globe an
 answers the actual case. [The challenge record](docs/HACKATHON.md) includes the original
 case and regulations, submission media and links to the organizer's announcement.
 
-The images and named QwertyS materials document the hackathon product. Older media are identified separately. The completed October pilot and its results are documented in the [pilot report](docs/pilot/README.md).
+The images, demo and pitch document the hackathon product. Results of the completed 1–10 October 2026 applicant pilot are documented in the [pilot report](docs/pilot/README.md).
+
+## Award certificate
+
+**1st place at the LOCUS Startup Hackathon**, team Qwertys. The certificate names Shakhnazar Akhmer and records a **250,000 KZT team prize**.
+
+[Original documents and certificate gallery](docs/awards/README.md).
+
+<details>
+<summary>View the certificate</summary>
+
+**LOCUS Startup Hackathon — 1st place, Qwertys**
+
+<a href="docs/awards/locus-first-place.pdf"><img src="docs/awards/locus-first-place.png" alt="LOCUS Startup Hackathon — 1st place, Qwertys" width="760"></a>
+
+</details>
 
 ---
 
 
-### QwertyS
+### Built by QwertyS
 
-Jointly developed by **[Nurkhan Aimukatov / pip00sya](https://github.com/pip00sya)** and
-**[Shakhnazar Akhmer / Eye172](https://github.com/Eye172)**.
-Both are Full-stack, Software and AI Engineers; Shakhnazar also works in ML engineering.
-Our shared experience includes product design, application development, AI integration,
-testing and preparing working hackathon submissions. We contributed as equal engineering
-partners across the project.
+**[Shakhnazar Akhmer / Eye172](https://github.com/Eye172)** and **[Nurkhan Aimukatov / pip00sya](https://github.com/pip00sya)**.
 
+[Companion showcase on Shakhnazar's account](https://github.com/Eye172/campuslense-showcase) · [Nurkhan's projects](https://github.com/pip00sya) · [Shakhnazar's projects](https://github.com/Eye172).
 
-This public case study is maintained on Nurkhan's account.
-[Companion showcase on Shakhnazar's account](https://github.com/Eye172/campuslense-showcase) ·
-[Nurkhan's projects](https://github.com/pip00sya) · [Shakhnazar's projects](https://github.com/Eye172).
+The two showcases document the same joint project. Product facts, authors and evidence are shared; each account maintains its own presentation repository.
 
-[Private full-history implementation](https://github.com/Eye172/locus-hackathon-1) · [Private original team repository](https://github.com/pip00sya/locus). Both source links require collaborator access.
-
-[Hackathon record and supporting sources](docs/HACKATHON.md) ·
-[Media provenance](docs/MEDIA.md).
+[Hackathon record and supporting sources](docs/HACKATHON.md) · [Media provenance](docs/MEDIA.md).

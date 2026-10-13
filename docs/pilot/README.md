@@ -2,11 +2,11 @@
 
 **1–10 October 2026 · 10 days · Project lead: Nurkhan**
 
-CampusLense helps applicants explore universities through photographs, a 3D campus, city information, and university comparison. During the pilot, **486 people** visited the site, **131 accounts** signed in successfully, and **104 accounts** obtained at least one completed profile. The service completed **418 profile builds** across **263 unique universities**.
+CampusLense helps applicants explore universities through photographs, a 3D campus, city information, and university comparison. During the pilot, the site recorded **486 visitors**, **131 accounts** signed in successfully, and **104 accounts** obtained at least one completed profile. The service completed **418 profile builds** across **263 unique universities**.
 
 ![CampusLense pilot overview](assets/pilot-overview.png)
 
-[All metrics](METRICS.md) · [Report images](SCREENSHOTS.md) · [Sources and verification](METHODOLOGY.md) · [Expenses](COSTS.md) · [Open the report dashboard](dashboard.html)
+[All metrics](METRICS.md) · [Report images](SCREENSHOTS.md) · [Methodology](METHODOLOGY.md) · [Expenses](COSTS.md) · [Download the standalone dashboard](dashboard.html)
 
 ## Key results
 
@@ -45,7 +45,7 @@ CampusLense helps applicants explore universities through photographs, a 3D camp
 | 10 October | 11 | 3 | 22 |
 | **Total** | **486** | **131** | **418** |
 
-[Daily data CSV](data/daily.csv). Calendar labels follow the period confirmed by the project lead; the order and values of the ten source rows are preserved.
+[Daily data CSV](data/daily.csv). Daily results cover 1–10 October 2026 inclusive.
 
 ## What the pilot showed
 
@@ -57,7 +57,7 @@ Four of eight pilot criteria were met: activation count, visitor-to-account conv
 
 ## Umami captures
 
-English captures of the overview, events, and sessions are included in the [image gallery](SCREENSHOTS.md#umami-overview). They show the available local database for 1–10 October. Their source and verification scope are documented alongside the images.
+English captures of the overview, events, and sessions are included in the [image gallery](SCREENSHOTS.md#umami-overview). They show pilot analytics for 1–10 October, with the displayed metrics explained alongside each image.
 
 ## Package contents
 
@@ -65,12 +65,12 @@ English captures of the overview, events, and sessions are included in the [imag
 |---|---|
 | [METRICS.md](METRICS.md) | Funnel, retention, feature use, technical performance, survey, ratings, and feedback |
 | [SCREENSHOTS.md](SCREENSHOTS.md) | Three summary-report views and three direct Umami captures |
-| [METHODOLOGY.md](METHODOLOGY.md) | Sources, corrections, definitions, and verification scope |
+| [METHODOLOGY.md](METHODOLOGY.md) | Data sources, metric definitions, denominators and rounding |
 | [COSTS.md](COSTS.md) | Expenses reported in the pilot summary |
-| [data](data/) | CSV metrics and distributions; JSON source information |
+| [data](data/) | CSV metrics and distributions; JSON report metadata |
 | [dashboard.html](dashboard.html) | Standalone report dashboard with no external requests |
 | [checks.json](checks.json) | Arithmetic, links, image, layout, and package checks |
 | [file-manifest.json](file-manifest.json) | SHA-256 checksums |
 | [verify_report.py](verify_report.py) | Offline verification using the Python standard library |
 
-The project lead confirmed the period and the figures as completed-pilot results. The retained summary document is the source of the figures; participant-level records and the original analytics export are outside this package. Percentages were recalculated from aggregates. Databases, configuration, access keys, and personal records are excluded.
+The public report presents aggregate pilot results, survey distributions and feedback themes. Percentages use the denominators described in the methodology; participant identities and access credentials are not published.

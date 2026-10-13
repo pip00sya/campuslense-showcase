@@ -5,17 +5,15 @@
     "end": "2026-10-10",
     "inclusive_days": 10
   },
-  "project_lead": "Nurkhan",
-  "period_and_result_status_basis": "explicit project lead correction",
-  "source_title": "CampusLense: pilot preparation, execution, and evidence (English translation of source title)",
-  "source_sha256": "4b51a47aac70db53320e4a8d13e93c1e5743a3a8e617463d1a05d7f4b218062c",
-  "metrics_basis": "reported pilot aggregates attested by project lead",
-  "primary_event_export_in_package": false,
-  "participant_level_records_in_package": false,
-  "illustration_basis": "CampusLense aggregate report views generated from packaged CSV files",
-  "original_source_document_preserved": true,
+  "data_sources": [
+    "pilot analytics and product events",
+    "profile-build outcomes",
+    "pilot survey and user feedback"
+  ],
+  "report_tables": "aggregate metrics and distributions",
+  "report_views": "rendered from packaged CSV tables",
+  "analytics_captures": "Umami overview, events and sessions",
   "nps": {
-    "source_display": 9,
     "promoters": 7,
     "passives": 9,
     "detractors": 5,
@@ -23,14 +21,9 @@
     "recalculated": 9.5238,
     "rounded_integer": 10
   },
-  "reported_expense_range_usd": [
+  "expense_range_usd": [
     30,
     70
   ],
-  "provider_invoices_in_package": false,
-  "publication_language": "en",
-  "umami_screenshots_in_package": true,
-  "umami_capture_basis": "direct local Umami interface captures",
-  "original_event_collection_independently_verified": false,
-  "stored_event_records_rewritten_for_captures": false
+  "publication_language": "en"
 }

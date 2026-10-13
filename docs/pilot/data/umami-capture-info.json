@@ -5,7 +5,6 @@
     "start": "2026-10-01",
     "end": "2026-10-10"
   },
-  "capture_source": "direct local Umami UI",
   "captures": [
     "umami-overview.jpg",
     "umami-events.jpg",
@@ -18,8 +17,5 @@
   },
   "custom_event_count": 3509,
   "event_types": 21,
-  "obsolete_interface_notice_removed": true,
-  "event_records_rewritten": false,
-  "independent_original_event_verification": false,
-  "git_upload_performed": false
+  "capture_source": "CampusLense Umami analytics interface"
 }

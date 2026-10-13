@@ -1,11 +1,11 @@
-﻿theme,label,mentions,summary,source_page,evidence_status
-tuition,Tuition and scholarships,11,Request to add to university profiles,25,pilot_result_attested_by_project_lead
-speed,Build speed,9,Waiting feels like the application has frozen,25,pilot_result_attested_by_project_lead
-admissions,Admission deadlines and requirements,8,Request to add admission information,25,pilot_result_attested_by_project_lead
-3d,3D campus,8,Positive feedback,25,pilot_result_attested_by_project_lead
-google_mobile,Google sign-in on mobile,7,Unable to sign in from Telegram,25,pilot_result_attested_by_project_lead
-dormitories,Dormitories and prices,6,Request to add dormitory information,25,pilot_result_attested_by_project_lead
-kz_photos,Too few photos of Kazakh universities,6,Empty or incomplete profiles,25,pilot_result_attested_by_project_lead
-student_reviews,Student reviews,5,Request to add student reviews,25,pilot_result_attested_by_project_lead
-passport,Photo passport,4,Purpose of the feature is unclear,25,pilot_result_attested_by_project_lead
-kazakh_ui,Kazakh interface,3,Request to add a Kazakh-language interface,25,pilot_result_attested_by_project_lead
+theme,label,mentions,summary
+tuition,Tuition and scholarships,11,Request to add to university profiles
+speed,Build speed,9,Waiting feels like the application has frozen
+admissions,Admission deadlines and requirements,8,Request to add admission information
+3d,3D campus,8,Positive feedback
+google_mobile,Google sign-in on mobile,7,Unable to sign in from Telegram
+dormitories,Dormitories and prices,6,Request to add dormitory information
+kz_photos,Too few photos of Kazakh universities,6,Empty or incomplete profiles
+student_reviews,Student reviews,5,Request to add student reviews
+passport,Photo passport,4,Purpose of the feature is unclear
+kazakh_ui,Kazakh interface,3,Request to add a Kazakh-language interface

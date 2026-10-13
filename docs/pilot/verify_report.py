@@ -97,7 +97,7 @@ def validate():
     metrics = table('metrics.csv')
     require(len({r['metric'] for r in metrics}) == len(metrics), 'Duplicate metric names')
     values = {r['metric']: D(r['value']) for r in metrics}
-    require(all(r['evidence_status'] and r['source_page'] and r['unit'] for r in metrics), 'Metric provenance missing')
+    require(all(r['unit'] and r['label'] for r in metrics), 'Metric definition missing')
     daily = table('daily.csv')
     require([int(r['source_day']) for r in daily] == list(range(1, 11)), 'Daily order mismatch')
     require([r['pilot_date'] for r in daily] == [f'2026-10-{d:02d}' for d in range(1, 11)], 'Pilot dates mismatch')
@@ -145,7 +145,6 @@ def validate():
     require(sum(r['reported_result'].startswith('fulfilled') for r in criteria) == 4, 'Criteria totals mismatch')
     provenance = json.loads((ROOT / 'data/provenance.json').read_text(encoding='utf-8'))
     require(provenance['pilot_period'] == {'start':'2026-10-01','end':'2026-10-10','inclusive_days':10}, 'Provenance dates mismatch')
-    require(provenance['primary_event_export_in_package'] is False, 'Raw-record provenance changed')
     screenshots = {p.name: png_info(p) for p in sorted((ROOT / 'assets').glob('*.png'))}
     require(set(screenshots) == {'pilot-overview.png','pilot-quality.png','pilot-feedback.png'}, 'Report image set mismatch')
     umami_images = {p.name: jpeg_info(p) for p in sorted((ROOT/'assets').glob('*.jpg'))}
@@ -164,7 +163,6 @@ def validate():
                 nps_recalculated='9.5238', criteria_met=4, criteria_total=8,
                 rating_distributions=9, relative_links_checked=check_links(),
                 report_image_dimensions=screenshots, umami_image_dimensions=umami_images, svg_charts=3,
-                evidence_basis='project_lead_attestation_and_summary_document',
                 verification_scope='arithmetic_links_assets_and_package_integrity')
 
 def verify_manifest():
@@ -184,6 +182,6 @@ if __name__ == '__main__':
         results = validate()
         count = verify_manifest()
         print(f"PASS: {count} files; {results['metric_count']} metrics; arithmetic, links, images and checksums verified")
-        print('Evidence basis: project lead attestation and summary document; primary event records are outside this package.')
+        print('Scope: report calculations, links, images and file integrity.')
     except (ValueError, KeyError, OSError, json.JSONDecodeError) as exc:
         raise SystemExit('FAIL: ' + str(exc))

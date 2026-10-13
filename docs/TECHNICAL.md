@@ -93,5 +93,5 @@ current environment templates with your own restricted provider credentials.
 - `media/campuslense-demo.mp4`: the earlier 133.72-second recording.
 
 The named package was retained in the October migration. The archive alone does
-not establish which exact binary was submitted at the September deadline. A
-completed applicant pilot ran from 1 to 10 October 2026; its results are in the [pilot report](pilot/README.md).
+not establish which exact binary was submitted at the September deadline. The
+completed applicant pilot ran from 1 to 10 October 2026; its results and evidence scope are in the [pilot report](pilot/README.md).

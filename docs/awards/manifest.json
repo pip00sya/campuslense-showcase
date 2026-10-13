@@ -1,0 +1,15 @@
+{
+  "project": "CampusLense",
+  "supplied": "2026-10-12",
+  "files": [
+    {
+      "original_filename": "QwertyS - Shakhnazar Akhmer.pdf",
+      "file": "locus-first-place.pdf",
+      "preview": "locus-first-place.png",
+      "label": "LOCUS Startup Hackathon — 1st place, Qwertys",
+      "sha256": "64aa118ab1a6de7c70db71d38704247e0ed81d37e15e27c27c6d6bfadbfb0f48",
+      "bytes": 331282,
+      "preview_sha256": "1d84d40d2f4d89b3eccf3eba8a7bc2ca7da8d8776da819734d7cdffb1033b56a"
+    }
+  ]
+}

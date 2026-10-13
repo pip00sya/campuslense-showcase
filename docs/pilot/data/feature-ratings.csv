@@ -1,10 +1,10 @@
-﻿feature,label,mean_score,score_9_10,score_7_8,score_5_6,score_0_4,response_count,source_page,evidence_status
-3d,3D campus,8.4,11,8,2,0,21,25,pilot_result_attested_by_project_lead
-globe,Globe and search,8.0,9,9,2,1,21,25,pilot_result_attested_by_project_lead
-brochure,Brochure vs. reality,7.8,8,9,3,1,21,25,pilot_result_attested_by_project_lead
-photos,Photos by category,7.4,5,10,5,1,21,25,pilot_result_attested_by_project_lead
-climate,Climate and city,6.8,3,9,7,2,21,25,pilot_result_attested_by_project_lead
-passport,Photo passport,6.3,3,6,9,3,21,25,pilot_result_attested_by_project_lead
-compare_saved,Comparison and saved universities,6.0,2,6,9,4,21,25,pilot_result_attested_by_project_lead
-mobile,Mobile experience,5.6,2,5,8,6,21,25,pilot_result_attested_by_project_lead
-build_speed,Build speed,5.2,1,4,9,7,21,25,pilot_result_attested_by_project_lead
+feature,label,mean_score,score_9_10,score_7_8,score_5_6,score_0_4,response_count
+3d,3D campus,8.4,11,8,2,0,21
+globe,Globe and search,8.0,9,9,2,1,21
+brochure,Brochure vs. reality,7.8,8,9,3,1,21
+photos,Photos by category,7.4,5,10,5,1,21
+climate,Climate and city,6.8,3,9,7,2,21
+passport,Photo passport,6.3,3,6,9,3,21
+compare_saved,Comparison and saved universities,6.0,2,6,9,4,21
+mobile,Mobile experience,5.6,2,5,8,6,21
+build_speed,Build speed,5.2,1,4,9,7,21

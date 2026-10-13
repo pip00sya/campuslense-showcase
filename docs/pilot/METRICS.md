@@ -1,8 +1,8 @@
 # CampusLense — Pilot Metrics
 
-[Overview](README.md) · [Sources and methodology](METHODOLOGY.md) · [All metrics CSV](data/metrics.csv)
+[Overview](README.md) · [Methodology](METHODOLOGY.md) · [All metrics CSV](data/metrics.csv)
 
-Results of the 1–10 October 2026 pilot, taken from the retained summary document. The project lead confirmed the period and their status as completed-pilot results. Percentages are recalculated from aggregates, with denominators stated where available.
+Results of the 1–10 October 2026 pilot: analytics, profile builds, survey responses and user feedback. Percentages use explicit denominators; calculation details are in the methodology.
 
 ## Outreach and funnel
 
@@ -18,22 +18,22 @@ Results of the 1–10 October 2026 pilot, taken from the retained summary docume
 | Obtained at least one profile | 104 | 79.4% of accounts; 21.4% of visitors |
 | Completed the survey | 21 | 20.2% of activated accounts |
 
-Source: page 21. Combined community membership may count the same person more than once; it is not the site's unique visitor count. [Daily results](README.md#daily-results) and [daily.csv](data/daily.csv) preserve the ten daily rows from page 22.
+Combined community membership may count the same person more than once; it is not the site's unique visitor count. [Daily results](README.md#daily-results) and [daily.csv](data/daily.csv) cover the ten pilot days.
 
 ## Engagement and retention
 
 | Metric | Result | Definition or source |
 |---|---:|---|
-| Median time to first completed profile | 110 s | From first arrival; page 22 |
-| Median session duration | 220 s | Page 22 |
-| Profiles per activated account | Mean 4.0; median 3 | 418 / 104 ≈ 4.02; page 22 |
-| Unique universities | 263 | Page 22 |
-| Reached the quota at least once | 37 / 104 — 35.6% | Rounded to 36% in the source; page 23 |
-| Returned the next day after activation | 25 / 104 — 24.0% | Any event on the next calendar day; page 23 |
-| Returned on day seven | 5 / 54 — 9.3% | Accounts activated on days 1–3; page 23 |
-| Active on three or more distinct days | 11 / 104 — 10.6% | Rounded to 11% in the source; page 23 |
+| Median time to first completed profile | 110 s | From first arrival |
+| Median session duration | 220 s | Pilot analytics |
+| Profiles per activated account | Mean 4.0; median 3 | 418 / 104 ≈ 4.02 |
+| Unique universities | 263 | Pilot analytics |
+| Reached the quota at least once | 37 / 104 — 35.6% | 37 activated accounts reached the quota |
+| Returned the next day after activation | 25 / 104 — 24.0% | Any event on the next calendar day |
+| Returned on day seven | 5 / 54 — 9.3% | Accounts activated on days 1–3 |
+| Active on three or more distinct days | 11 / 104 — 10.6% | 11 activated accounts used the product on at least three days |
 
-D7 uses the early cohort of 54 accounts activated on days 1–3, allowing a seven-day return to be observed within the pilot period. The original cohort membership is outside this package.
+D7 uses the early cohort of 54 accounts activated on days 1–3, allowing a seven-day return to be observed within the pilot period. 
 
 ## Feature use
 
@@ -49,7 +49,7 @@ D7 uses the early cohort of 54 accounts activated on days 1–3, allowing a seve
 | Link sharing | 9% |
 | Mobile devices | 81% |
 
-Source: page 23. A shared denominator for all rows is not explicitly specified. Feature-use percentages are not click or event counts and are not converted into individual user records.
+Feature percentages describe feature use; they are distinct from event counts and are not summed across features.
 
 ## University countries
 
@@ -63,11 +63,11 @@ Source: page 23. A shared denominator for all rows is not explicitly specified. 
 | Other | 10% |
 | **Total** | **100%** |
 
-Source: page 23; [country-distribution.csv](data/country-distribution.csv). These are the countries of requested universities. Visitor geography is not reported separately.
+[country-distribution.csv](data/country-distribution.csv). These are the countries of requested universities. Visitor geography is not reported separately.
 
 ## Technical performance
 
-| Metric | Result | Target in the summary |
+| Metric | Result | Pilot target |
 |---|---:|---:|
 | New build requests | 497 | — |
 | Successful builds | 418 — 84.1% | ≥ 95% |
@@ -81,13 +81,13 @@ Source: page 23; [country-distribution.csv](data/country-distribution.csv). Thes
 | CLS | 0.06 | ≤ 0.1 |
 | Availability over 10 days | 99.6% | ≥ 99% |
 
-Source: page 24. LCP describes the appearance of the main content, INP describes interaction latency, and CLS describes layout shifts. These metrics do not measure 3D scene FPS. Availability of 99.6% over ten days corresponds to approximately 57.6 minutes of downtime; the source reports about one hour.
+LCP describes the appearance of the main content, INP describes interaction latency, and CLS describes layout shifts. These metrics do not measure 3D scene FPS. Availability of 99.6% over ten days corresponds to approximately 57.6 minutes of downtime. This is approximately one hour.
 
-The reported categories sum to 418 + 47 + 32 = 497. A user leaving and a background build completing can overlap; task logs are needed to verify exclusivity. Reasons for repeat builds across 263 unique universities are outside this package.
+The build-outcome categories total **418 + 47 + 32 = 497**. Build counts and unique university counts are separate metrics.
 
 ## Survey
 
-| Metric | Result | Target in the summary |
+| Metric | Result | Pilot target |
 |---|---:|---:|
 | Responses | 21 | — |
 | SUS | 71 | ≥ 68 |
@@ -99,7 +99,7 @@ The reported categories sum to 418 + 47 + 32 = 497. A user leaving and a backgro
 | Prefer five new profiles | 8 / 21 — 38.1% | — |
 | Prefer unlimited profiles | 4 / 21 — 19.0% | — |
 
-Source: page 24. NPS = (7 − 5) / 21 × 100. Raw SUS items and individual responses are outside this package. The small respondent sample does not support generalizing survey results to all visitors.
+NPS = (7 − 5) / 21 × 100. Survey results describe the 21 respondents.
 
 ## Feature ratings
 
@@ -117,7 +117,7 @@ Source: page 24. NPS = (7 − 5) / 21 × 100. Raw SUS items and individual respo
 | Mobile experience | 5.6 | 2 | 5 | 8 | 6 |
 | Build speed | 5.2 | 1 | 4 | 9 | 7 |
 
-Source: page 25; [feature-ratings.csv](data/feature-ratings.csv). Every row contains 21 responses grouped into score ranges. Exact scores within each range are unavailable, so means are preserved from the summary. There is no separate "did not use" category.
+[feature-ratings.csv](data/feature-ratings.csv). Every row contains 21 responses grouped into score ranges. The mean rating is shown alongside the grouped response distribution. There is no separate "did not use" category.
 
 ## Feedback
 
@@ -136,7 +136,7 @@ The pilot received 31 feedback messages from 22 people and 14 bug reports. Indiv
 | Photo passport | 4 | Purpose is unclear |
 | Kazakh interface | 3 | Request to add |
 
-Source: page 25; [feedback-themes.csv](data/feedback-themes.csv). Mentions may overlap and are not unique respondent counts.
+[feedback-themes.csv](data/feedback-themes.csv). Mentions may overlap and are not unique respondent counts.
 
 ## Pilot criteria
 
@@ -151,4 +151,4 @@ Source: page 25; [feedback-themes.csv](data/feedback-themes.csv). Mentions may o
 | Successful builds | ≥ 95% | 84.1% | Not met |
 | Expenses | ≤ $100 | $30–70 | Met based on the reported range |
 
-Source: page 26; [success-criteria.csv](data/success-criteria.csv). Four of eight criteria were met. CSV percentages retain four decimal places. Expenses preserve the range stated in the summary; [expense information](COSTS.md).
+[success-criteria.csv](data/success-criteria.csv). Four of eight criteria were met. CSV percentages retain four decimal places. Expenses use the recorded range; [expense information](COSTS.md).

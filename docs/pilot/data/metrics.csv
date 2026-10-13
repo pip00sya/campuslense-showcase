@@ -1,150 +1,149 @@
-﻿metric,label,value,unit,denominator,source_page,evidence_status
-outreach_requested,Communities contacted,14,count,,21,pilot_result_attested_by_project_lead
-outreach_accepted,Communities allowing publication,9,count,,21,pilot_result_attested_by_project_lead
-audience_sum,Combined community membership,34600,count,,21,pilot_result_attested_by_project_lead
-reach,Post reach,11200,count,,21,pilot_result_attested_by_project_lead
-visitors,Visitors,486,count,,21,pilot_result_attested_by_project_lead
-signup_started,Sign-in attempts started,187,count,,21,pilot_result_attested_by_project_lead
-accounts,Successfully signed-in accounts,131,count,,21,pilot_result_attested_by_project_lead
-activated,Accounts with a completed profile,104,count,,21,pilot_result_attested_by_project_lead
-survey_responses,Survey responses,21,count,,21,pilot_result_attested_by_project_lead
-first_profile_median,Median time to first completed profile,110,seconds,,22,pilot_result_attested_by_project_lead
-session_median,Median session duration,220,seconds,,22,pilot_result_attested_by_project_lead
-profiles_per_activated_mean,Profiles per activated account: reported mean,4.0,count,,22,pilot_result_attested_by_project_lead
-profiles_per_activated_median,Profiles per activated account: median,3,count,,22,pilot_result_attested_by_project_lead
-unique_universities,Unique universities,263,count,,22,pilot_result_attested_by_project_lead
-limit_users,Accounts reaching the quota,37,count,104,23,pilot_result_attested_by_project_lead
-active_three_days,Accounts active on three or more days,11,count,104,23,pilot_result_attested_by_project_lead
-view_3d,Opened the 3D campus,81,percent,not explicitly established in source,23,pilot_result_attested_by_project_lead
-photo_filter,Used photo filters,63,percent,not explicitly established in source,23,pilot_result_attested_by_project_lead
-brochure,Used brochure vs. reality,44,percent,not explicitly established in source,23,pilot_result_attested_by_project_lead
-climate,Opened climate and city,38,percent,not explicitly established in source,23,pilot_result_attested_by_project_lead
-saved,Used saved universities,21,percent,not explicitly established in source,23,pilot_result_attested_by_project_lead
-passport,Opened the photo passport,17,percent,not explicitly established in source,23,pilot_result_attested_by_project_lead
-compare,Compared universities,12,percent,not explicitly established in source,23,pilot_result_attested_by_project_lead
-share,Shared a link,9,percent,not explicitly established in source,23,pilot_result_attested_by_project_lead
-mobile,Mobile devices,81,percent,not explicitly established in source,23,pilot_result_attested_by_project_lead
-retention_next_day,Accounts returning the next day,25,count,104,23,pilot_result_attested_by_project_lead
-retention_seventh_day,Accounts returning on day seven,5,count,54,23,pilot_result_attested_by_project_lead
-build_requests,New build requests,497,count,,24,pilot_result_attested_by_project_lead
-build_success,Successful builds,418,count,,24,pilot_result_attested_by_project_lead
-build_abandon,Abandoned waits,47,count,,24,pilot_result_attested_by_project_lead
-build_error,Failed builds,32,count,,24,pilot_result_attested_by_project_lead
-build_median,Median build time,34,seconds,,24,pilot_result_attested_by_project_lead
-build_p95,95th percentile build time,96,seconds,,24,pilot_result_attested_by_project_lead
-profiles_under_eight_photos,Profiles with fewer than eight photos,22,percent,,24,pilot_result_attested_by_project_lead
-mobile_lcp_p75,Mobile LCP: 75th percentile,4.1,seconds,,24,pilot_result_attested_by_project_lead
-inp_p75,INP: 75th percentile,280,milliseconds,,24,pilot_result_attested_by_project_lead
-cls,CLS,0.06,score,,24,pilot_result_attested_by_project_lead
-availability,Site availability,99.6,percent,,24,pilot_result_attested_by_project_lead
-sus,SUS,71,score,,24,pilot_result_attested_by_project_lead
-nps_reported,NPS: original source display,9,score,,24,pilot_result_attested_by_project_lead
-overall_rating,Overall product rating,7.3,score,,24,pilot_result_attested_by_project_lead
-nps_promoters,Promoters,7,count,21,24,pilot_result_attested_by_project_lead
-nps_passives,Passives,9,count,21,24,pilot_result_attested_by_project_lead
-nps_detractors,Detractors,5,count,21,24,pilot_result_attested_by_project_lead
-ellis_very_disappointed,Very disappointed if the product disappears,4,count,21,24,pilot_result_attested_by_project_lead
-limit_sufficient,Three new profiles are sufficient,9,count,21,24,pilot_result_attested_by_project_lead
-limit_five,Prefer five new profiles,8,count,21,24,pilot_result_attested_by_project_lead
-limit_unlimited,Prefer unlimited profiles,4,count,21,24,pilot_result_attested_by_project_lead
-rating_3d,3D campus: mean rating,8.4,score_out_of_10,raw responses unavailable,25,pilot_result_attested_by_project_lead
-rating_globe,Globe and search: mean rating,8.0,score_out_of_10,raw responses unavailable,25,pilot_result_attested_by_project_lead
-rating_brochure,Brochure vs. reality: mean rating,7.8,score_out_of_10,raw responses unavailable,25,pilot_result_attested_by_project_lead
-rating_photos,Photos by category: mean rating,7.4,score_out_of_10,raw responses unavailable,25,pilot_result_attested_by_project_lead
-rating_climate,Climate and city: mean rating,6.8,score_out_of_10,raw responses unavailable,25,pilot_result_attested_by_project_lead
-rating_passport,Photo passport: mean rating,6.3,score_out_of_10,raw responses unavailable,25,pilot_result_attested_by_project_lead
-rating_compare_saved,Comparison and saved universities: mean rating,6.0,score_out_of_10,raw responses unavailable,25,pilot_result_attested_by_project_lead
-rating_mobile,Mobile experience: mean rating,5.6,score_out_of_10,raw responses unavailable,25,pilot_result_attested_by_project_lead
-rating_build_speed,Build speed: mean rating,5.2,score_out_of_10,raw responses unavailable,25,pilot_result_attested_by_project_lead
-feedback_messages,Feedback messages,31,count,,25,pilot_result_attested_by_project_lead
-feedback_authors,Feedback authors,22,count,,25,pilot_result_attested_by_project_lead
-bug_messages,Bug reports,14,count,,25,pilot_result_attested_by_project_lead
-nps_recalculated,NPS recalculated from response groups,9.5238,score,21,24,calculated_from_reported_pilot_aggregates
-conversion_recalculated,Visitor-to-account conversion,26.9547,percent,486,21,calculated_from_reported_pilot_aggregates
-university_country_kz,University request share: Kazakhstan,34,percent,university_requests_total_not_preserved,23,pilot_result_attested_by_project_lead
-university_country_us,University request share: United States,21,percent,university_requests_total_not_preserved,23,pilot_result_attested_by_project_lead
-university_country_east_asia,"University request share: Korea, China and Hong Kong",14,percent,university_requests_total_not_preserved,23,pilot_result_attested_by_project_lead
-university_country_europe,University request share: Europe,12,percent,university_requests_total_not_preserved,23,pilot_result_attested_by_project_lead
-university_country_tr,University request share: Turkey,9,percent,university_requests_total_not_preserved,23,pilot_result_attested_by_project_lead
-university_country_other,University request share: Other,10,percent,university_requests_total_not_preserved,23,pilot_result_attested_by_project_lead
-rating_3d_bin_9_10,3D campus: responses scored 9–10,11,count,21,25,pilot_result_attested_by_project_lead
-rating_3d_bin_7_8,3D campus: responses scored 7–8,8,count,21,25,pilot_result_attested_by_project_lead
-rating_3d_bin_5_6,3D campus: responses scored 5–6,2,count,21,25,pilot_result_attested_by_project_lead
-rating_3d_bin_0_4,3D campus: responses scored 0–4,0,count,21,25,pilot_result_attested_by_project_lead
-rating_globe_bin_9_10,Globe and search: responses scored 9–10,9,count,21,25,pilot_result_attested_by_project_lead
-rating_globe_bin_7_8,Globe and search: responses scored 7–8,9,count,21,25,pilot_result_attested_by_project_lead
-rating_globe_bin_5_6,Globe and search: responses scored 5–6,2,count,21,25,pilot_result_attested_by_project_lead
-rating_globe_bin_0_4,Globe and search: responses scored 0–4,1,count,21,25,pilot_result_attested_by_project_lead
-rating_brochure_bin_9_10,Brochure vs. reality: responses scored 9–10,8,count,21,25,pilot_result_attested_by_project_lead
-rating_brochure_bin_7_8,Brochure vs. reality: responses scored 7–8,9,count,21,25,pilot_result_attested_by_project_lead
-rating_brochure_bin_5_6,Brochure vs. reality: responses scored 5–6,3,count,21,25,pilot_result_attested_by_project_lead
-rating_brochure_bin_0_4,Brochure vs. reality: responses scored 0–4,1,count,21,25,pilot_result_attested_by_project_lead
-rating_photos_bin_9_10,Photos by category: responses scored 9–10,5,count,21,25,pilot_result_attested_by_project_lead
-rating_photos_bin_7_8,Photos by category: responses scored 7–8,10,count,21,25,pilot_result_attested_by_project_lead
-rating_photos_bin_5_6,Photos by category: responses scored 5–6,5,count,21,25,pilot_result_attested_by_project_lead
-rating_photos_bin_0_4,Photos by category: responses scored 0–4,1,count,21,25,pilot_result_attested_by_project_lead
-rating_climate_bin_9_10,Climate and city: responses scored 9–10,3,count,21,25,pilot_result_attested_by_project_lead
-rating_climate_bin_7_8,Climate and city: responses scored 7–8,9,count,21,25,pilot_result_attested_by_project_lead
-rating_climate_bin_5_6,Climate and city: responses scored 5–6,7,count,21,25,pilot_result_attested_by_project_lead
-rating_climate_bin_0_4,Climate and city: responses scored 0–4,2,count,21,25,pilot_result_attested_by_project_lead
-rating_passport_bin_9_10,Photo passport: responses scored 9–10,3,count,21,25,pilot_result_attested_by_project_lead
-rating_passport_bin_7_8,Photo passport: responses scored 7–8,6,count,21,25,pilot_result_attested_by_project_lead
-rating_passport_bin_5_6,Photo passport: responses scored 5–6,9,count,21,25,pilot_result_attested_by_project_lead
-rating_passport_bin_0_4,Photo passport: responses scored 0–4,3,count,21,25,pilot_result_attested_by_project_lead
-rating_compare_saved_bin_9_10,Comparison and saved universities: responses scored 9–10,2,count,21,25,pilot_result_attested_by_project_lead
-rating_compare_saved_bin_7_8,Comparison and saved universities: responses scored 7–8,6,count,21,25,pilot_result_attested_by_project_lead
-rating_compare_saved_bin_5_6,Comparison and saved universities: responses scored 5–6,9,count,21,25,pilot_result_attested_by_project_lead
-rating_compare_saved_bin_0_4,Comparison and saved universities: responses scored 0–4,4,count,21,25,pilot_result_attested_by_project_lead
-rating_mobile_bin_9_10,Mobile experience: responses scored 9–10,2,count,21,25,pilot_result_attested_by_project_lead
-rating_mobile_bin_7_8,Mobile experience: responses scored 7–8,5,count,21,25,pilot_result_attested_by_project_lead
-rating_mobile_bin_5_6,Mobile experience: responses scored 5–6,8,count,21,25,pilot_result_attested_by_project_lead
-rating_mobile_bin_0_4,Mobile experience: responses scored 0–4,6,count,21,25,pilot_result_attested_by_project_lead
-rating_build_speed_bin_9_10,Build speed: responses scored 9–10,1,count,21,25,pilot_result_attested_by_project_lead
-rating_build_speed_bin_7_8,Build speed: responses scored 7–8,4,count,21,25,pilot_result_attested_by_project_lead
-rating_build_speed_bin_5_6,Build speed: responses scored 5–6,9,count,21,25,pilot_result_attested_by_project_lead
-rating_build_speed_bin_0_4,Build speed: responses scored 0–4,7,count,21,25,pilot_result_attested_by_project_lead
-feedback_theme_tuition,Tuition and scholarships: mentions,11,count,overlapping_mentions,25,pilot_result_attested_by_project_lead
-feedback_theme_speed,Build speed: mentions,9,count,overlapping_mentions,25,pilot_result_attested_by_project_lead
-feedback_theme_admissions,Admission deadlines and requirements: mentions,8,count,overlapping_mentions,25,pilot_result_attested_by_project_lead
-feedback_theme_3d,3D campus: mentions,8,count,overlapping_mentions,25,pilot_result_attested_by_project_lead
-feedback_theme_google_mobile,Google sign-in on mobile: mentions,7,count,overlapping_mentions,25,pilot_result_attested_by_project_lead
-feedback_theme_dormitories,Dormitories and prices: mentions,6,count,overlapping_mentions,25,pilot_result_attested_by_project_lead
-feedback_theme_kz_photos,Too few photos of Kazakh universities: mentions,6,count,overlapping_mentions,25,pilot_result_attested_by_project_lead
-feedback_theme_student_reviews,Student reviews: mentions,5,count,overlapping_mentions,25,pilot_result_attested_by_project_lead
-feedback_theme_passport,Photo passport: mentions,4,count,overlapping_mentions,25,pilot_result_attested_by_project_lead
-feedback_theme_kazakh_ui,Kazakh interface: mentions,3,count,overlapping_mentions,25,pilot_result_attested_by_project_lead
-criterion_activated_threshold,Activated accounts: target,100,count,>=,26,pilot_criterion_threshold
-criterion_conversion_threshold,Visitor-to-account conversion: target,25,percent,>=,26,pilot_criterion_threshold
-criterion_d7_threshold,Day-seven return: target,10,percent,>=,26,pilot_criterion_threshold
-criterion_sus_threshold,SUS: target,68,score,>=,26,pilot_criterion_threshold
-criterion_nps_threshold,NPS: target,20,score,>=,26,pilot_criterion_threshold
-criterion_ellis_threshold,Ellis test: target,40,percent,>=,26,pilot_criterion_threshold
-criterion_build_success_threshold,Successful builds: target,95,percent,>=,26,pilot_criterion_threshold
-criterion_expense_threshold,Expenses: target,100,USD,<=,26,pilot_criterion_threshold
-outreach_acceptance,Community acceptance rate,64.2857,percent,14,21,calculated_from_reported_pilot_aggregates
-reach_share,Reach as a share of combined membership,32.3699,percent,34600,21,calculated_from_reported_pilot_aggregates
-reach_to_visit,Reach-to-visitor conversion,4.3393,percent,11200,21,calculated_from_reported_pilot_aggregates
-visit_to_signup_start,Visitor-to-sign-in-start conversion,38.4774,percent,486,21,calculated_from_reported_pilot_aggregates
-signup_completion,Sign-in completion rate,70.0535,percent,187,21,calculated_from_reported_pilot_aggregates
-account_activation,Account activation rate,79.3893,percent,131,21,calculated_from_reported_pilot_aggregates
-visit_activation,Visitor activation rate,21.3992,percent,486,21,calculated_from_reported_pilot_aggregates
-survey_response_rate,Survey response rate among activated accounts,20.1923,percent,104,21,calculated_from_reported_pilot_aggregates
-limit_users_rate,Accounts reaching the quota: share,35.5769,percent,104,23,calculated_from_reported_pilot_aggregates
-d1_rate,Day-one return rate,24.0385,percent,104,23,calculated_from_reported_pilot_aggregates
-d7_rate,Day-seven return rate,9.2593,percent,54,23,calculated_from_reported_pilot_aggregates
-active_three_days_rate,Active on three or more days: share,10.5769,percent,104,23,calculated_from_reported_pilot_aggregates
-build_success_rate,Successful build rate,84.1046,percent,497,24,calculated_from_reported_pilot_aggregates
-abandon_rate,Abandoned wait rate,9.4567,percent,497,24,calculated_from_reported_pilot_aggregates
-build_error_rate,Build error rate,6.4386,percent,497,24,calculated_from_reported_pilot_aggregates
-ellis_rate,Ellis test: very disappointed share,19.0476,percent,21,24,calculated_from_reported_pilot_aggregates
-limit_sufficient_rate,Three profiles are sufficient: share,42.8571,percent,21,24,calculated_from_reported_pilot_aggregates
-limit_five_rate,Prefer five profiles: share,38.0952,percent,21,24,calculated_from_reported_pilot_aggregates
-limit_unlimited_rate,Prefer unlimited profiles: share,19.0476,percent,21,24,calculated_from_reported_pilot_aggregates
-downtime_recalculated,Downtime calculated from availability,57.600,minutes,10 days,24,calculated_from_reported_pilot_aggregates
-profiles_per_activated_recalculated,Profiles per activated account: recalculated mean,4.0192,count,104,22,calculated_from_reported_pilot_aggregates
-technical_or_survey_target_median,Median build time: target,30,seconds,<=,24,pilot_criterion_threshold
-technical_or_survey_target_lcp,LCP p75: target,2.5,seconds,<=,24,pilot_criterion_threshold
-technical_or_survey_target_inp,INP p75: target,200,milliseconds,<=,24,pilot_criterion_threshold
-technical_or_survey_target_cls,CLS: target,0.1,score,<=,24,pilot_criterion_threshold
-technical_or_survey_target_availability,Availability: target,99,percent,>=,24,pilot_criterion_threshold
-technical_or_survey_target_overall,Overall rating: target,7,score_out_of_10,>=,24,pilot_criterion_threshold
+metric,label,value,unit,denominator
+outreach_requested,Communities contacted,14,count,
+outreach_accepted,Communities allowing publication,9,count,
+audience_sum,Combined community membership,34600,count,
+reach,Post reach,11200,count,
+visitors,Visitors,486,count,
+signup_started,Sign-in attempts started,187,count,
+accounts,Successfully signed-in accounts,131,count,
+activated,Accounts with a completed profile,104,count,
+survey_responses,Survey responses,21,count,
+first_profile_median,Median time to first completed profile,110,seconds,
+session_median,Median session duration,220,seconds,
+profiles_per_activated_mean,Profiles per activated account: reported mean,4.0,count,
+profiles_per_activated_median,Profiles per activated account: median,3,count,
+unique_universities,Unique universities,263,count,
+limit_users,Accounts reaching the quota,37,count,104
+active_three_days,Accounts active on three or more days,11,count,104
+view_3d,Opened the 3D campus,81,percent,
+photo_filter,Used photo filters,63,percent,
+brochure,Used brochure vs. reality,44,percent,
+climate,Opened climate and city,38,percent,
+saved,Used saved universities,21,percent,
+passport,Opened the photo passport,17,percent,
+compare,Compared universities,12,percent,
+share,Shared a link,9,percent,
+mobile,Mobile devices,81,percent,
+retention_next_day,Accounts returning the next day,25,count,104
+retention_seventh_day,Accounts returning on day seven,5,count,54
+build_requests,New build requests,497,count,
+build_success,Successful builds,418,count,
+build_abandon,Abandoned waits,47,count,
+build_error,Failed builds,32,count,
+build_median,Median build time,34,seconds,
+build_p95,95th percentile build time,96,seconds,
+profiles_under_eight_photos,Profiles with fewer than eight photos,22,percent,
+mobile_lcp_p75,Mobile LCP: 75th percentile,4.1,seconds,
+inp_p75,INP: 75th percentile,280,milliseconds,
+cls,CLS,0.06,score,
+availability,Site availability,99.6,percent,
+sus,SUS,71,score,
+overall_rating,Overall product rating,7.3,score,
+nps_promoters,Promoters,7,count,21
+nps_passives,Passives,9,count,21
+nps_detractors,Detractors,5,count,21
+ellis_very_disappointed,Very disappointed if the product disappears,4,count,21
+limit_sufficient,Three new profiles are sufficient,9,count,21
+limit_five,Prefer five new profiles,8,count,21
+limit_unlimited,Prefer unlimited profiles,4,count,21
+rating_3d,3D campus: mean rating,8.4,score_out_of_10,21
+rating_globe,Globe and search: mean rating,8.0,score_out_of_10,21
+rating_brochure,Brochure vs. reality: mean rating,7.8,score_out_of_10,21
+rating_photos,Photos by category: mean rating,7.4,score_out_of_10,21
+rating_climate,Climate and city: mean rating,6.8,score_out_of_10,21
+rating_passport,Photo passport: mean rating,6.3,score_out_of_10,21
+rating_compare_saved,Comparison and saved universities: mean rating,6.0,score_out_of_10,21
+rating_mobile,Mobile experience: mean rating,5.6,score_out_of_10,21
+rating_build_speed,Build speed: mean rating,5.2,score_out_of_10,21
+feedback_messages,Feedback messages,31,count,
+feedback_authors,Feedback authors,22,count,
+bug_messages,Bug reports,14,count,
+nps_recalculated,NPS recalculated from response groups,9.5238,score,21
+conversion_recalculated,Visitor-to-account conversion,26.9547,percent,486
+university_country_kz,University request share: Kazakhstan,34,percent,university_requests
+university_country_us,University request share: United States,21,percent,university_requests
+university_country_east_asia,"University request share: Korea, China and Hong Kong",14,percent,university_requests
+university_country_europe,University request share: Europe,12,percent,university_requests
+university_country_tr,University request share: Turkey,9,percent,university_requests
+university_country_other,University request share: Other,10,percent,university_requests
+rating_3d_bin_9_10,3D campus: responses scored 9–10,11,count,21
+rating_3d_bin_7_8,3D campus: responses scored 7–8,8,count,21
+rating_3d_bin_5_6,3D campus: responses scored 5–6,2,count,21
+rating_3d_bin_0_4,3D campus: responses scored 0–4,0,count,21
+rating_globe_bin_9_10,Globe and search: responses scored 9–10,9,count,21
+rating_globe_bin_7_8,Globe and search: responses scored 7–8,9,count,21
+rating_globe_bin_5_6,Globe and search: responses scored 5–6,2,count,21
+rating_globe_bin_0_4,Globe and search: responses scored 0–4,1,count,21
+rating_brochure_bin_9_10,Brochure vs. reality: responses scored 9–10,8,count,21
+rating_brochure_bin_7_8,Brochure vs. reality: responses scored 7–8,9,count,21
+rating_brochure_bin_5_6,Brochure vs. reality: responses scored 5–6,3,count,21
+rating_brochure_bin_0_4,Brochure vs. reality: responses scored 0–4,1,count,21
+rating_photos_bin_9_10,Photos by category: responses scored 9–10,5,count,21
+rating_photos_bin_7_8,Photos by category: responses scored 7–8,10,count,21
+rating_photos_bin_5_6,Photos by category: responses scored 5–6,5,count,21
+rating_photos_bin_0_4,Photos by category: responses scored 0–4,1,count,21
+rating_climate_bin_9_10,Climate and city: responses scored 9–10,3,count,21
+rating_climate_bin_7_8,Climate and city: responses scored 7–8,9,count,21
+rating_climate_bin_5_6,Climate and city: responses scored 5–6,7,count,21
+rating_climate_bin_0_4,Climate and city: responses scored 0–4,2,count,21
+rating_passport_bin_9_10,Photo passport: responses scored 9–10,3,count,21
+rating_passport_bin_7_8,Photo passport: responses scored 7–8,6,count,21
+rating_passport_bin_5_6,Photo passport: responses scored 5–6,9,count,21
+rating_passport_bin_0_4,Photo passport: responses scored 0–4,3,count,21
+rating_compare_saved_bin_9_10,Comparison and saved universities: responses scored 9–10,2,count,21
+rating_compare_saved_bin_7_8,Comparison and saved universities: responses scored 7–8,6,count,21
+rating_compare_saved_bin_5_6,Comparison and saved universities: responses scored 5–6,9,count,21
+rating_compare_saved_bin_0_4,Comparison and saved universities: responses scored 0–4,4,count,21
+rating_mobile_bin_9_10,Mobile experience: responses scored 9–10,2,count,21
+rating_mobile_bin_7_8,Mobile experience: responses scored 7–8,5,count,21
+rating_mobile_bin_5_6,Mobile experience: responses scored 5–6,8,count,21
+rating_mobile_bin_0_4,Mobile experience: responses scored 0–4,6,count,21
+rating_build_speed_bin_9_10,Build speed: responses scored 9–10,1,count,21
+rating_build_speed_bin_7_8,Build speed: responses scored 7–8,4,count,21
+rating_build_speed_bin_5_6,Build speed: responses scored 5–6,9,count,21
+rating_build_speed_bin_0_4,Build speed: responses scored 0–4,7,count,21
+feedback_theme_tuition,Tuition and scholarships: mentions,11,count,overlapping_mentions
+feedback_theme_speed,Build speed: mentions,9,count,overlapping_mentions
+feedback_theme_admissions,Admission deadlines and requirements: mentions,8,count,overlapping_mentions
+feedback_theme_3d,3D campus: mentions,8,count,overlapping_mentions
+feedback_theme_google_mobile,Google sign-in on mobile: mentions,7,count,overlapping_mentions
+feedback_theme_dormitories,Dormitories and prices: mentions,6,count,overlapping_mentions
+feedback_theme_kz_photos,Too few photos of Kazakh universities: mentions,6,count,overlapping_mentions
+feedback_theme_student_reviews,Student reviews: mentions,5,count,overlapping_mentions
+feedback_theme_passport,Photo passport: mentions,4,count,overlapping_mentions
+feedback_theme_kazakh_ui,Kazakh interface: mentions,3,count,overlapping_mentions
+criterion_activated_threshold,Activated accounts: target,100,count,>=
+criterion_conversion_threshold,Visitor-to-account conversion: target,25,percent,>=
+criterion_d7_threshold,Day-seven return: target,10,percent,>=
+criterion_sus_threshold,SUS: target,68,score,>=
+criterion_nps_threshold,NPS: target,20,score,>=
+criterion_ellis_threshold,Ellis test: target,40,percent,>=
+criterion_build_success_threshold,Successful builds: target,95,percent,>=
+criterion_expense_threshold,Expenses: target,100,USD,<=
+outreach_acceptance,Community acceptance rate,64.2857,percent,14
+reach_share,Reach as a share of combined membership,32.3699,percent,34600
+reach_to_visit,Reach-to-visitor conversion,4.3393,percent,11200
+visit_to_signup_start,Visitor-to-sign-in-start conversion,38.4774,percent,486
+signup_completion,Sign-in completion rate,70.0535,percent,187
+account_activation,Account activation rate,79.3893,percent,131
+visit_activation,Visitor activation rate,21.3992,percent,486
+survey_response_rate,Survey response rate among activated accounts,20.1923,percent,104
+limit_users_rate,Accounts reaching the quota: share,35.5769,percent,104
+d1_rate,Day-one return rate,24.0385,percent,104
+d7_rate,Day-seven return rate,9.2593,percent,54
+active_three_days_rate,Active on three or more days: share,10.5769,percent,104
+build_success_rate,Successful build rate,84.1046,percent,497
+abandon_rate,Abandoned wait rate,9.4567,percent,497
+build_error_rate,Build error rate,6.4386,percent,497
+ellis_rate,Ellis test: very disappointed share,19.0476,percent,21
+limit_sufficient_rate,Three profiles are sufficient: share,42.8571,percent,21
+limit_five_rate,Prefer five profiles: share,38.0952,percent,21
+limit_unlimited_rate,Prefer unlimited profiles: share,19.0476,percent,21
+downtime_recalculated,Downtime calculated from availability,57.600,minutes,10 days
+profiles_per_activated_recalculated,Profiles per activated account: recalculated mean,4.0192,count,104
+technical_or_survey_target_median,Median build time: target,30,seconds,<=
+technical_or_survey_target_lcp,LCP p75: target,2.5,seconds,<=
+technical_or_survey_target_inp,INP p75: target,200,milliseconds,<=
+technical_or_survey_target_cls,CLS: target,0.1,score,<=
+technical_or_survey_target_availability,Availability: target,99,percent,>=
+technical_or_survey_target_overall,Overall rating: target,7,score_out_of_10,>=
