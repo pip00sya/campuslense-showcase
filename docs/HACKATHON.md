@@ -15,7 +15,7 @@ confirms first place and 13 teams reaching the overall final. The case and regul
 establish the event requirements and schedule.
 
 The [original final-results artwork](../media/locus-winners.jpg) is retained with organizer
-attribution. The team also retains first-place certificates; their scans are not included yet.
+attribution.
 
 - [Organizer's event announcement](https://www.instagram.com/p/Dc31Wp3CUQF/).
 - [Organizer account](https://www.instagram.com/locus_ed/).
